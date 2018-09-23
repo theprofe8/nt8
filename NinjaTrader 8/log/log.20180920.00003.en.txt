@@ -1,0 +1,10 @@
+2018-09-20 07:52:38:316|2|4|Session Break (Version 8.0.15.1)
+2018-09-20 07:52:39:938|1|4|Verifying license at primary server...
+2018-09-20 07:52:40:113|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-20 07:52:41:511|1|4|Global simulation mode enabled
+2018-09-20 07:52:42:538|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-20 07:52:42:573|1|4|Automated trading disabled
+2018-09-20 07:52:42:648|1|32|Order entry hot keys disabled
+2018-09-20 07:52:42:650|1|4|Auto close enabled=False
+2018-09-20 07:52:43:593|1|4|Restoring workspace 'Untitled'...
+2018-09-20 07:55:14:346|1|4|Workspace Untitled not saved

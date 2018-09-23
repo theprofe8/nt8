@@ -1,0 +1,27 @@
+2018-09-21 02:45:16:497|1|2|Kinetick – End Of Day (Free): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 02:45:21:793|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-21 02:45:21:918|1|2|NinjaTrader Continuum (Demo): Primary connection=Connection lost, Price feed=Connected
+2018-09-21 02:45:21:919|1|2|NinjaTrader Continuum (Demo): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 02:45:21:919|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connection lost
+2018-09-21 02:45:22:766|1|2|Kinetick – End Of Day (Free): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 23:06:12:613|1|2|NinjaTrader Continuum (Demo): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 23:06:17:675|3|4|Unable to load server side config file: The operation has timed out
+2018-09-21 23:06:17:688|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-21 23:06:17:690|3|2|Connection lost to the NinjaTrader Information Server: is-us-nt-001.ninjatrader.com
+2018-09-21 23:06:17:694|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-21 23:06:18:318|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-21 23:06:24:374|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connection lost
+2018-09-21 23:06:26:370|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connected
+2018-09-21 23:06:27:690|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-21 23:06:27:690|1|2|Using HDS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-21 23:06:27:877|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-21 23:06:27:991|1|2|Connection restored to the NinjaTrader Information Server: is-us-nt-001.ninjatrader.com
+2018-09-21 23:07:12:969|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connection lost
+2018-09-21 23:07:13:290|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connected
+2018-09-21 23:13:42:958|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connection lost
+2018-09-21 23:13:42:958|1|2|NinjaTrader Continuum (Demo): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 23:13:42:977|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-21 23:13:42:989|1|2|Kinetick – End Of Day (Free): Primary connection=Connection lost, Price feed=Connection lost
+2018-09-21 23:13:46:691|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-21 23:13:46:952|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connection lost
+2018-09-21 23:13:48:404|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connected

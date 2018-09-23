@@ -1,0 +1,130 @@
+2018-09-19 00:52:47:117 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-19 01:46:59:510 (Demo0918) Cbi.Account.CreateOrder: orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Buy orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=0 time='2018-09-19 08:47:00' gtd='2099-12-01' statementDate='2018-09-19' id=-1
+2018-09-19 01:46:59:546 (Demo0918) Cbi.Account.Submit0: realOrderState=Initialized isPendingSubmit=False orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Buy orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=0 time='2018-09-19 08:47:00' gtd='2099-12-01' statementDate='2018-09-19'
+2018-09-19 01:46:59:549 (Demo0918) Cbi.Account.Submit1: realOrderState=Initialized orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Buy orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=0 time='2018-09-19 08:47:00' gtd='2099-12-01' statementDate='2018-09-19'
+2018-09-19 01:46:59:554 (Demo0918) Cbi.Simulator.Submit: realOrderState=Initialized orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Buy orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=0 time='2018-09-19 08:47:00' gtd='2099-12-01' statementDate='2018-09-19' delay=100
+2018-09-19 01:46:59:571 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Submitted orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Submitted instrument='ES 09-18' orderAction=Buy limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:47:00' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:46:59:693 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Accepted orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Accepted instrument='ES 09-18' orderAction=Buy limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:47:00' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:46:59:693 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Working orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Working instrument='ES 09-18' orderAction=Buy limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:47:00' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:46:59:704 (Demo0918) Cbi.Simulator.Fill1: realOrderState=Working orderId='56e7700b8df041058a0af20b799ff95d' maxFillQuantity=1 price=2909.25 thread=56
+2018-09-19 01:46:59:704 (Demo0918) Cbi.Simulator.Fill2: realOrderState=Working orderId='56e7700b8df041058a0af20b799ff95d' fillQuantity=1 price=2909.25
+2018-09-19 01:46:59:704 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Filled orderId='56e7700b8df041058a0af20b799ff95d' account='Sim101' name='' orderState=Filled instrument='ES 09-18' orderAction=Buy limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=1 averageFillPrice=2909.25 time='2018-09-19 08:47:00' statementDate='2018-09-19' error=NoError comment='' nr=4
+2018-09-19 01:46:59:721 (Demo0918) Cbi.Account.ExecutionUpdateCallback: executionId='c6811d6f329a4de8b1a419363be6cb6a' account='Sim101' instrument='ES 09-18' exchange=Globex price=2909.25 quantity=1 marketPosition=Long operation=Add orderID='56e7700b8df041058a0af20b799ff95d' isSod=False time='2018-09-19 08:47:00' statementDate='2018-09-19'
+2018-09-19 01:46:59:747 (Demo0918) Cbi.Account.PositionUpdateCallback: instrument='ES 09-18' account='Sim101' avgPrice=2909.25 quantity=1 marketPosition=Long operation=Add
+2018-09-19 01:46:59:762 (Demo0918) NinjaScript.StrategyBase.Process.PositionEventArgs.Filtered: instrument='ES 09-18' account='Sim101' avgPrice=2909.25 quantity=1 marketPosition=Long operation=Add
+2018-09-19 01:50:39:352 (Demo0918) Cbi.Account.CreateOrder: orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Sell orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=1 time='2018-09-19 08:50:40' gtd='2099-12-01' statementDate='2018-09-19' id=-1
+2018-09-19 01:50:39:352 (Demo0918) Cbi.Account.Submit0: realOrderState=Initialized isPendingSubmit=False orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Sell orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=1 time='2018-09-19 08:50:40' gtd='2099-12-01' statementDate='2018-09-19'
+2018-09-19 01:50:39:352 (Demo0918) Cbi.Account.Submit1: realOrderState=Initialized orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Initialized instrument='ES 09-18' orderAction=Sell orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=1 time='2018-09-19 08:50:40' gtd='2099-12-01' statementDate='2018-09-19'
+2018-09-19 01:50:39:352 (Demo0918) Cbi.Simulator.Submit: realOrderState=Initialized orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Submitted instrument='ES 09-18' orderAction=Sell orderType='Market' limitPrice=0 stopPrice=0 quantity=1 tif=Day oco='' filled=0 averageFillPrice=0 onBehalfOf='' id=1 time='2018-09-19 08:50:40' gtd='2099-12-01' statementDate='2018-09-19' delay=100
+2018-09-19 01:50:39:352 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Submitted orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Submitted instrument='ES 09-18' orderAction=Sell limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:50:40' statementDate='2018-09-19' error=NoError comment='' nr=1
+2018-09-19 01:50:39:458 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Accepted orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Accepted instrument='ES 09-18' orderAction=Sell limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:50:40' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:50:39:458 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Working orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Working instrument='ES 09-18' orderAction=Sell limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=0 averageFillPrice=0 time='2018-09-19 08:50:40' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:50:39:458 (Demo0918) Cbi.Simulator.Fill1: realOrderState=Working orderId='c174bb71ecf64e7581f8c52f540d87c2' maxFillQuantity=1 price=2910 thread=56
+2018-09-19 01:50:39:458 (Demo0918) Cbi.Simulator.Fill2: realOrderState=Working orderId='c174bb71ecf64e7581f8c52f540d87c2' fillQuantity=1 price=2910
+2018-09-19 01:50:39:458 (Demo0918) Cbi.Account.OrderUpdateCallback: realOrderState=Filled orderId='c174bb71ecf64e7581f8c52f540d87c2' account='Sim101' name='' orderState=Filled instrument='ES 09-18' orderAction=Sell limitPrice=0 stopPrice=0 quantity=1 orderType='Market' filled=1 averageFillPrice=2910 time='2018-09-19 08:50:40' statementDate='2018-09-19' error=NoError comment='' nr=-1
+2018-09-19 01:50:39:459 (Demo0918) Cbi.Account.ExecutionUpdateCallback: executionId='c9da070ef2ee42feb15eae8d4387ca18' account='Sim101' instrument='ES 09-18' exchange=Globex price=2910 quantity=1 marketPosition=Short operation=Add orderID='c174bb71ecf64e7581f8c52f540d87c2' isSod=False time='2018-09-19 08:50:40' statementDate='2018-09-19'
+2018-09-19 01:50:39:460 (Demo0918) Cbi.Account.OnAddTrade: entryId='c6811d6f329a4de8b1a419363be6cb6a' exitId='c9da070ef2ee42feb15eae8d4387ca18' profitCurrencyBeforeCommissionAndFees=37.5
+2018-09-19 01:50:39:461 (Demo0918) Cbi.Account.PositionUpdateCallback: instrument='ES 09-18' account='Sim101' avgPrice=0 quantity=0 marketPosition=Flat operation=Remove
+2018-09-19 01:50:39:461 (Demo0918) NinjaScript.StrategyBase.Process.PositionEventArgs.Filtered: instrument='ES 09-18' account='Sim101' avgPrice=0 quantity=0 marketPosition=Flat operation=Remove
+2018-09-19 01:50:39:625 (Demo0918) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=CashValue currency=UsDollar value=*****
+2018-09-19 01:50:39:625 (Demo0918) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=GrossRealizedProfitLoss currency=UsDollar value=*****
+2018-09-19 01:50:39:625 (Demo0918) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=RealizedProfitLoss currency=UsDollar value=*****
+2018-09-19 01:50:39:625 (Demo0918) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=RealizedProfitLoss currency=UsDollar value=*****
+2018-09-19 01:52:47:116 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-19 02:44:30:506 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Slow' host='demo.cqgtrader.com'
+2018-09-19 02:44:36:991 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='DEMO.CQGTRADER.COM'
+2018-09-19 02:44:36:991 (Demo0918) CQG.Adapter.OnConnectionQualityChanged2
+2018-09-19 02:44:36:991 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:36:991 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:36:991 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=ConnectionLost previousStatus=Connected message=''
+2018-09-19 02:44:36:991 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:36:992 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfn033IMSi.cqgrdnet.com'
+2018-09-19 02:44:36:992 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-19 02:44:36:992 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:36:992 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=Connected
+2018-09-19 02:44:37:001 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=True foundConnectingStatus=False foundConnected=False
+2018-09-19 02:44:37:001 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfc005i.cqgrdnet.com'
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:37:001 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:37:001 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Slow' host='demo.cqgtrader.com'
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.OnConnectionQualityChanged3
+2018-09-19 02:44:37:001 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:37:001 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:001 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=ConnectionLost message=''
+2018-09-19 02:44:37:002 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:44:37:002 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-19 02:44:37:002 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:44:37:002 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-19 02:44:37:002 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:003 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:003 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-19 02:44:37:003 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:44:37:003 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-19 02:44:37:273 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='demo.cqgtrader.com'
+2018-09-19 02:44:37:273 (Demo0918) CQG.Adapter.OnConnectionQualityChanged2
+2018-09-19 02:44:37:273 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:37:273 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:273 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=ConnectionLost previousStatus=Connected message=''
+2018-09-19 02:44:37:274 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:274 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:37:274 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-19 02:44:37:274 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=False
+2018-09-19 02:44:37:274 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-19 02:44:37:753 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-19 02:44:37:753 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-19 02:44:37:935 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='DEMO.CQGTRADER.COM'
+2018-09-19 02:44:37:937 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-19 02:44:37:937 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-19 02:44:37:937 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='sandbox.cqgtrader.com'
+2018-09-19 02:44:38:161 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Normal' host='sandbox.cqgtrader.com'
+2018-09-19 02:44:38:161 (Demo0918) CQG.Adapter.OnConnectionQualityChanged3
+2018-09-19 02:44:38:161 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:38:161 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:161 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=ConnectionLost message=''
+2018-09-19 02:44:38:161 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:162 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:162 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-19 02:44:38:162 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:44:38:162 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-19 02:44:38:791 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfn003i.cqgrdnet.com'
+2018-09-19 02:44:38:791 (Demo0918) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-19 02:44:38:791 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-19 02:44:38:791 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:791 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:792 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:44:38:792 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-19 02:44:38:792 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:44:38:792 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-19 02:44:38:829 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Remove' fcmName='Ninjademo'
+2018-09-19 02:44:43:885 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Add' fcmName='Ninjademo'
+2018-09-19 02:44:43:885 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Modify' fcmName='Ninjademo'
+2018-09-19 02:44:43:885 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Modify' fcmName='Ninjademo'
+2018-09-19 02:44:49:706 (fccc55e908a544de937615842004b322) Cbi.NinjaTraderProxy.OnSocketCompleted.SocketError: remoteEndPoint='208.48.16.147:31655' socketError=TimedOut
+2018-09-19 02:44:49:707 ERROR: Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-19 02:44:59:711 Server.HdsClient.Connect: type=HDS server='hds-us-nt-002.ninjatrader.com' port=31655 system=''
+2018-09-19 02:45:36:555 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfn003i.cqgrdnet.com'
+2018-09-19 02:45:36:555 (Demo0918) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-19 02:45:36:555 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-19 02:45:36:555 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:45:36:555 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:45:36:555 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-19 02:45:36:555 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-19 02:45:36:555 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:45:36:555 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-19 02:45:36:705 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginchi007bi.cqgnet.com'
+2018-09-19 02:45:36:705 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-19 02:45:36:854 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginchi007bi.cqgnet.com'
+2018-09-19 02:45:36:854 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-19 02:45:37:604 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfc011i.cqgrdnet.com'
+2018-09-19 02:45:37:604 (Demo0918) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-19 02:45:37:604 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-19 02:45:37:604 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:45:37:604 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:45:37:604 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-19 02:45:37:604 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-19 02:45:37:604 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-19 02:45:37:604 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-19 02:52:47:109 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'

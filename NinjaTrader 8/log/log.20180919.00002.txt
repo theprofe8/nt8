@@ -1,0 +1,14 @@
+2018-09-19 05:33:10:573|2|4|Session Break (Version 8.0.15.1)
+2018-09-19 05:33:12:027|1|4|Verifying license at primary server...
+2018-09-19 05:33:12:214|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-19 05:33:13:349|1|4|Global simulation mode enabled
+2018-09-19 05:33:14:246|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-19 05:33:14:260|1|4|Automated trading disabled
+2018-09-19 05:33:14:261|1|4|Auto connecting 'Demo0918'...
+2018-09-19 05:33:14:297|1|2|Demo0918: Primary connection=Connecting, Price feed=Connecting
+2018-09-19 05:33:14:405|1|32|Order entry hot keys disabled
+2018-09-19 05:33:14:406|1|4|Auto close enabled=False
+2018-09-19 05:33:15:450|1|4|Restoring workspace 'Untitled'...
+2018-09-19 05:33:17:208|0|2|Demo0918: Your logon is disabled. Contact your FCM. (Logon failed)
+2018-09-19 05:33:17:208|1|2|Demo0918: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-19 05:55:31:617|1|4|Workspace Untitled not saved

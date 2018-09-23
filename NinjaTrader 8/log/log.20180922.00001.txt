@@ -1,0 +1,41 @@
+2018-09-22 08:43:47:393|2|4|Session Break (Version 8.0.15.1)
+2018-09-22 08:43:48:689|1|4|Verifying license at primary server...
+2018-09-22 08:43:48:779|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-22 08:43:49:930|1|4|Global simulation mode enabled
+2018-09-22 08:43:50:890|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-22 08:43:50:904|1|4|Automated trading disabled
+2018-09-22 08:43:50:970|1|32|Order entry hot keys disabled
+2018-09-22 08:43:50:971|1|4|Auto close enabled=False
+2018-09-22 08:43:52:461|1|4|Restoring workspace 'Untitled'...
+2018-09-22 08:43:52:464|1|4|Restoring workspace 'Default Futures'...
+2018-09-22 09:00:51:750|1|2|Playback Connection: Primary connection=Connecting, Price feed=Connecting
+2018-09-22 09:00:51:816|1|2|Playback Connection: Primary connection=Connected, Price feed=Connected
+2018-09-22 09:00:51:826|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-22 09:00:51:830|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 09:00:52:035|1|2|Simulation account 'Playback101' reset
+2018-09-22 09:01:19:267|1|2|Simulation account 'Playback101' reset
+2018-09-22 09:52:43:485|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-22 10:23:21:679|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-22 10:23:34:707|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 10:23:44:713|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 10:23:44:906|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 10:38:39:505|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-22 16:56:09:663|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 16:56:09:670|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-22 16:56:14:064|3|4|Unable to load server side config file: The operation has timed out
+2018-09-22 16:56:19:663|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 16:56:19:917|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 17:41:15:225|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-22 22:36:05:605|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 22:36:05:614|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-22 22:36:09:778|3|4|Unable to load server side config file: The operation has timed out
+2018-09-22 22:36:15:605|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 22:36:15:915|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-22 22:36:26:302|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 22:36:26:303|0|2|Kinetick – End Of Day (Free): You can't connect while having an open 'Playback Connection' connection (Panic)
+2018-09-22 22:36:26:303|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 22:36:34:506|1|2|Playback Connection: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-22 22:36:34:516|1|2|Playback Connection: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 22:36:36:748|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 22:36:37:128|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-22 22:36:37:174|1|2|Time to auto close position='12:00:00 AM', Enabled=False

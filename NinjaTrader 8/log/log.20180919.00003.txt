@@ -1,0 +1,23 @@
+2018-09-19 05:55:36:003|2|4|Session Break (Version 8.0.15.1)
+2018-09-19 05:55:37:710|1|4|Verifying license at primary server...
+2018-09-19 05:55:37:941|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-19 05:55:39:258|1|4|Global simulation mode enabled
+2018-09-19 05:55:41:075|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-19 05:55:41:087|1|4|Automated trading disabled
+2018-09-19 05:55:41:087|1|4|Auto connecting 'Demo0918'...
+2018-09-19 05:55:41:090|1|2|Demo0918: Primary connection=Connecting, Price feed=Connecting
+2018-09-19 05:55:41:160|1|32|Order entry hot keys disabled
+2018-09-19 05:55:41:161|1|4|Auto close enabled=False
+2018-09-19 05:55:42:075|1|4|Restoring workspace 'Untitled'...
+2018-09-19 05:55:43:883|0|2|Demo0918: Your logon is disabled. Contact your FCM. (Logon failed)
+2018-09-19 05:55:43:883|1|2|Demo0918: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-19 06:11:24:605|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-19 06:11:25:318|0|2|demo360820: Your logon is disabled. Contact your FCM. (Logon failed)
+2018-09-19 06:11:25:318|1|2|demo360820: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-19 06:12:19:996|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-19 06:12:26:909|1|2|demo360820: Primary connection=Connected, Price feed=Connected
+2018-09-19 06:12:26:976|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-19 06:12:26:977|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-19 06:44:20:341|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-19 09:44:27:454|1|2|demo360820: Primary connection=Connection lost, Price feed=Connected
+2018-09-19 09:44:27:460|1|2|demo360820: Primary connection=Connection lost, Price feed=Connection lost

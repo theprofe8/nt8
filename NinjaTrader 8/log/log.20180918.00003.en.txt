@@ -1,0 +1,20 @@
+2018-09-18 23:52:42:052|2|4|Session Break (Version 8.0.15.1)
+2018-09-18 23:52:43:425|1|4|Verifying license at primary server...
+2018-09-18 23:52:43:523|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-18 23:52:44:634|1|4|Global simulation mode enabled
+2018-09-18 23:52:45:434|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-18 23:52:45:446|1|4|Automated trading disabled
+2018-09-18 23:52:45:447|1|4|Auto connecting 'Demo0918'...
+2018-09-18 23:52:45:449|1|2|Demo0918: Primary connection=Connecting, Price feed=Connecting
+2018-09-18 23:52:45:510|1|32|Order entry hot keys disabled
+2018-09-18 23:52:45:512|1|4|Auto close enabled=False
+2018-09-18 23:52:46:199|1|4|Restoring workspace 'Untitled'...
+2018-09-18 23:52:54:168|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-18 23:52:54:176|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-18 23:52:54:177|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-18 23:56:14:895|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803897' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-18 23:57:19:288|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803898' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-18 23:57:33:676|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803898'
+2018-09-18 23:57:55:642|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803897'
+2018-09-18 23:58:21:518|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803899' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-18 23:58:35:614|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803899'

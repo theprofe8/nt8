@@ -1,0 +1,183 @@
+******************* Session Start (Version 8.0.15.1) *******************
+2018-09-18 08:14:40:782 InstallDir='C:\Program Files (x86)\NinjaTrader 8\'
+2018-09-18 08:14:40:782 UserDataDir='C:\Users\theProfe8\Documents\NinjaTrader 8\'
+2018-09-18 08:14:40:782 MachineID='071F9A7084CF49BD19BEF98702EF5A0A'
+2018-09-18 08:14:40:782 OS='Microsoft Windows NT 10.0.17134.0'/'Win32NT'
+2018-09-18 08:14:40:782 OSLanguage='en-US'
+2018-09-18 08:14:40:782 OSEnvironment='64bit'
+2018-09-18 08:14:40:782 Processors=8
+2018-09-18 08:14:41:808 ProcessorSpeed=2.8 GHz
+2018-09-18 08:14:41:808 PhysicalMemory=16384 MB
+2018-09-18 08:14:41:858 DisplayAdapters=1/Radeon Pro 555
+2018-09-18 08:14:41:858 Monitors=1/2880x1800
+2018-09-18 08:14:41:858 .NET/CLR Version='4.7.2'/32bit
+2018-09-18 08:14:41:860 SqlCeVersion='4.0.8482.1'
+2018-09-18 08:14:41:860 ApplicationTimezone=EST -3 hour(s)
+2018-09-18 08:14:41:860 ApplicationTimezone=UTC -8 hour(s)
+2018-09-18 08:14:41:860 LocalTimezone=EST -3 hour(s)
+2018-09-18 08:14:41:860 LocalTimezone=UTC -8 hour(s)
+2018-09-18 08:14:42:161 DirectXRenderingHW
+2018-09-18 08:14:42:164 Deleting temporary files...
+2018-09-18 08:14:42:164 Compiling NinjaTrader.Custom...
+2018-09-18 08:14:45:671 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\cache'...
+2018-09-18 08:14:45:671 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\replay'...
+2018-09-18 08:14:45:671 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\day'...
+2018-09-18 08:14:45:671 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\messages'...
+2018-09-18 08:14:45:671 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\minute'...
+2018-09-18 08:14:45:672 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\snapshot'...
+2018-09-18 08:14:45:672 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\tick'...
+2018-09-18 08:14:45:672 Copying db and custom assemblies...
+2018-09-18 08:14:46:422 Loading custom assemblies...
+2018-09-18 08:14:46:423 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Custom.dll...
+2018-09-18 08:14:46:489 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Vendor.dll...
+2018-09-18 08:14:46:515 Loading CqgHistoricalData.dll...
+2018-09-18 08:14:46:676 Cbi.Licence.Verify99: type=SimulationOnly state=Verified startDate=12/31/2004 endDate=11/30/2099 licensedProviders=' Barchart.com Coinbase E-Signal External IQFeed Kinetick Playback Simulator Custom0 Custom2 Custom3 Custom4 Custom6 Custom7 Custom8 Custom9 Custom10 Custom11 Provider13 Custom14 Provider26 FOREX.com (Beta) Interactive Brokers Provider4 CQG FXCM Continuum Rithmic NinjaTrader Continuum Rithmic for NinjaTrader Brokerage NinjaTrader FXCM TD AMERITRADE' licensedFeatures=' AdvancedStrategyManagement AutomatedTrading BasicEntry Charting SuperDom'
+2018-09-18 08:14:46:677 Initializing database...
+2018-09-18 08:14:46:677 Loading master instruments...
+2018-09-18 08:14:46:853 (Db) Cbi.DB.get_Current.CreateConnection.Start
+2018-09-18 08:14:46:855 (Db) Cbi.DB: connectionString='Data Source="C:\Users\theProfe8\Documents\NinjaTrader 8\db\NinjaTrader.sdf"; Flush Interval=1'
+2018-09-18 08:14:47:218 (Db) Cbi.DB.get_Current: updating version=860
+2018-09-18 08:14:47:234 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:234 (Db) Cbi.DB.get_Current: updating version=861
+2018-09-18 08:14:47:234 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:234 (Db) Cbi.DB.get_Current: updating version=862
+2018-09-18 08:14:47:235 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:235 (Db) Cbi.DB.get_Current: updating version=863
+2018-09-18 08:14:47:237 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:237 (Db) Cbi.DB.get_Current: updating version=864
+2018-09-18 08:14:47:237 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:237 (Db) Cbi.DB.get_Current: updating version=867
+2018-09-18 08:14:47:239 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:239 (Db) Cbi.DB.get_Current: updating version=870
+2018-09-18 08:14:47:240 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:240 (Db) Cbi.DB.get_Current: updating version=873
+2018-09-18 08:14:47:241 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:241 (Db) Cbi.DB.get_Current: updating version=876
+2018-09-18 08:14:47:242 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:242 (Db) Cbi.DB.get_Current: updating version=877
+2018-09-18 08:14:47:243 (Db) Cbi.DB.get_Current: done
+2018-09-18 08:14:47:255 (Db) Cbi.DB.get_Current.CreateConnection.End
+2018-09-18 08:14:47:354 Loading instruments...
+2018-09-18 08:14:47:533 Loading accounts...
+2018-09-18 08:14:47:601 Loading users...
+2018-09-18 08:14:47:612 Downloading server info...
+2018-09-18 08:14:47:661 Starting instrument management...
+2018-09-18 08:14:47:664 Starting timer...
+2018-09-18 08:14:47:664 Creating file type watcher...
+2018-09-18 08:14:47:665 Setting ATI...
+2018-09-18 08:14:47:678 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-18 08:14:47:687 Connecting ATI server...
+2018-09-18 08:14:47:688 Server.AtiServer.Connect0
+2018-09-18 08:14:47:688 Starting adapter server...
+2018-09-18 08:14:47:689 Server.AtiServer.Connect1: Port='36973'
+2018-09-18 08:14:47:689 Server.AtiServer.Connect2
+2018-09-18 08:14:47:695 Starting bars dictionary...
+2018-09-18 08:14:47:695 Starting data recorder...
+2018-09-18 08:14:47:696 Starting server(s)...
+2018-09-18 08:14:47:706 Core.Globals.ApplicationStart.Commission: minVersion=1 maxVersion=275
+2018-09-18 08:14:47:706 Core.Globals.ApplicationStart.InstrumentList: minVersion=1 maxVersion=1
+2018-09-18 08:14:47:706 Core.Globals.ApplicationStart.MasterInstrument: minVersion=1 maxVersion=2827
+2018-09-18 08:14:47:706 Core.Globals.ApplicationStart.Risk: minVersion=1 maxVersion=39
+2018-09-18 08:14:47:706 Core.Globals.ApplicationStart.TradingHours: minVersion=1 maxVersion=899
+2018-09-18 08:14:47:722 ChartHotKeys: Alerts='' DisableAllAlerts='' EnableAllAlerts='' DataSeries='Ctrl+F' Indicators='Ctrl+I' Strategies='Ctrl+S' Properties='Ctrl+T' CrosshairPointer='Ctrl+R' CrosshairLocal='Ctrl+Q' CrosshairGlobal='Ctrl+G' CrosshairGlobal2='Ctrl+N' CrosshairLock='Ctrl+L' CyclePlotExecutions='Ctrl+E' ReloadHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5' SaveChartImage='Alt+S' ShowDataBox='Ctrl+D' ShowChartTrader='' ShowChartTraderHidden='' ShowScrollBar='' SnapModeBar='' SnapModeBarPrice='' SnapModeDisabled='' SnapModePrice='' StayInDrawMode='' ZoomIn='Ctrl+Alt+Z' ZoomOut='Ctrl+Alt+O' BarSpacingPlus='Ctrl+Down' BarSpacingMinus='Ctrl+Up' BarWidthPlus='Alt+Down' BarWidthMinus='Alt+Up' Arc='Ctrl+F7' AndrewsPitchfork='Ctrl+F8' ArrowDown='Alt+F3' ArrowLine='Ctrl+F2' ArrowUp='Alt+F2' Diamond='Alt+F5' Dot='Alt+F6' Ellipse='Ctrl+F11' ExtendedLine='F4' FibonacciCircle='F11' FibonacciExtension='F9' FibonacciRetracement='F8' FibonacciTimeExtension='F10' GannFan='Ctrl+F9' HorizontalLine='F6' Line='F2' Polygon='Alt+F10' VolumeProfile='Ctrl+3' Ray='F3' Rectangle='Ctrl+F12' RegressionChannel='Ctrl+F10' RemoveDrawingObjects='' RegionHighlightX='Shift+F1' RegionHighlightY='Shift+F2' RiskReward='Ctrl+F4' Ruler='Ctrl+F3' Square='Alt+F7' Text='F12' TimeCycles='Alt+F11' TrendChannel='Ctrl+2' Triangle='Ctrl+F6' TriangleDown='Alt+F9' TriangleUp='Alt+F8' VerticalLine='F7'
+2018-09-18 08:14:47:723 GlobalHotKeys: CloseWorkspace='' NextWorkspace='Shift+F3' PreviousWorkspace='' SaveWorkspace='' NewAccountData='' NewTradePerformance='' NewAlertsLog='' NewBasicEntry='' NewChart='' NewFxBoard='' NewFxPro='' NewHotListAnalyzer='' NewLevel2='' NewMarketAnalyzer='' NewNews='' NewNinjaScriptEditor='' NewNinjaScriptOutput='' NewOrderTicket='' NewStrategyAnalyzer='' NewDynamicDom='' NewStaticDom='' NewTimeAndSales='' CancelAllOrders='' FlattenEverything='' OpenInstrumentManager='' OpenInstrumentList='' OpenDatabase='' OpenHotKeyManager='' OpenHistoricalData='' OpenCommission='' OpenRisk='' OpenTradingHoursManager='' OpenRemoveNinjaScript='' CloseOtherTabs='' CloseTab='' DuplicateInNewTab='' DuplicateInNewWindow='' Export='' Find='Ctrl+F' MoveToNewWindow='' Print='Ctrl+P' Share='Ctrl+Shift+S'
+2018-09-18 08:14:47:723 MarketAnalyzerHotKeys: AddBlankRow='' AddLabelRow='' Columns='' Alerts='' EnableAllAlerts='' DisableAllAlerts='' AutoSort='' RowFilter='' ReloadHistorical='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-18 08:14:47:724 NinjaScriptEditorHotKeys: InsertCodeSnippet='F2' FindNext='F3' Compile='F5' GoToLine='Ctrl+G' CommentSelection='Ctrl+K' InlineSyntaxChecking='Ctrl+Alt+S' Save='Ctrl+S' Undo='Ctrl+Z' Redo='Ctrl+Y'
+2018-09-18 08:14:47:724 OrderEntryHotKeys: BuyAsk='' BuyBid='' BuyMarket='' SellAsk='' SellBid='' SellMarket='' BreakevenAtmStrategy='' BreakevenPosition='' CancelLastOrder='' CloseAtmStrategy='' ClosePosition='' DecreaseLastOrderPrice='' IncreaseLastOrderPrice='' ModifyLastOrder2Fill='' Reverse='' OcoOrder='Ctrl+Z' SimulatedOrder=''
+2018-09-18 08:14:47:724 SuperDomHotKeys: Center='' Columns='' Indicators='' ReloadAllHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-18 08:14:47:724 OrderEntryHotKeys=disabled
+2018-09-18 08:14:47:725 AutoClose=disabled
+2018-09-18 08:14:48:062 PrimaryMonitorWPFDPIScale=0.67
+2018-09-18 08:14:51:381 Starting server message polling timer with interval 3600 seconds...
+2018-09-18 08:33:25:407 (Demo0918) Gui.ControlCenter.OnConnect
+2018-09-18 08:33:25:417 (Demo0918) Cbi.Connection.Connect0: status=Disconnected assembly=8.0.15.1 date=2018-09-18 runAsProcess=False
+2018-09-18 08:33:25:425 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-18 08:33:25:427 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-18 08:33:25:436 (Demo0918) Cbi.Connection.Connect1
+2018-09-18 08:33:25:440 (Demo0918) Cbi.Connection.Connect2
+2018-09-18 08:33:25:440 (Demo0918) Cbi.Connection.Connect3
+2018-09-18 08:33:25:444 (Demo0918) Cbi.Connection.CreateAccount: account='Sim101' displayName='Sim101' fcm='' denomination=UsDollar forexLotSize=10000
+2018-09-18 08:33:25:447 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connecting previousStatus=Disconnected message=''
+2018-09-18 08:33:25:449 (Demo0918) Cbi.Account.OnConnectionStatus.PositionExecutions: account='Sim101'
+2018-09-18 08:33:25:452 (Demo0918) Cbi.Connection.Connect4
+2018-09-18 08:33:25:453 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-18 08:33:25:454 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connecting priceStatus=Connecting
+2018-09-18 08:33:25:478 (Demo0918) Cbi.Connection.Connect5
+2018-09-18 08:33:25:486 (Demo0918) CQG.Adapter.Connect: user='demo614' mode='Simulation' useNativeOcoOrders=False version=7.0.707.0
+2018-09-18 08:33:25:776 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=True foundConnected=False
+2018-09-18 08:33:25:776 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connecting
+2018-09-18 08:33:26:533 (Demo0918) CQG.Adapter.ConnectNow
+2018-09-18 08:33:26:599 (Demo0918) CQG.Adapter.Connect9: dataServerRequestsTimeout=90
+2018-09-18 08:33:26:599 (Demo0918) Cbi.Connection.Connect9 ok
+2018-09-18 08:33:27:114 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='ApplicationLevelCommunicationError' quality='Unavailable' host=''
+2018-09-18 08:33:27:114 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-18 08:33:28:081 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='demo.cqgtrader.com'
+2018-09-18 08:33:28:317 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Normal' host='demo.cqgtrader.com'
+2018-09-18 08:33:29:388 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfn004bi.cqgrdnet.com'
+2018-09-18 08:33:29:388 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfn033imsi.cqgrdnet.com'
+2018-09-18 08:33:29:388 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-18 08:33:29:388 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginsfn033imsi.cqgrdnet.com'
+2018-09-18 08:33:29:388 (Demo0918) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-18 08:33:29:932 (Demo0918) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfn004bi.cqgrdnet.com'
+2018-09-18 08:33:30:018 (Demo0918) CQG.Adapter.SessionManagerLogonCallback0
+2018-09-18 08:33:30:018 (Demo0918) CQG.Adapter.SessionManagerCallback5: gwSessionId=1203114618
+2018-09-18 08:33:34:439 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Add' fcmName='Ninjademo'
+2018-09-18 08:33:34:446 (Demo0918) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-18 08:33:34:446 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-18 08:33:34:454 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=Connecting message=''
+2018-09-18 08:33:34:469 (Demo0918) Cbi.Account.Restore.Start: account='Sim101' fcm=''
+2018-09-18 08:33:34:481 (Demo0918) Cbi.Account.Restore.End: account='Sim101' fcm=''
+2018-09-18 08:33:34:483 (Demo0918) Core.Connection.Statistics: connectAttempts=1/9005.5ms
+2018-09-18 08:33:34:483 (Demo0918) Cbi.Connection.ConnectionStatusCallback: autoClosePositionTime='09/18/2018 00:00:00' autoClosePosition=False
+2018-09-18 08:33:34:484 Server.HdsClient.Connect: type=HDS server='hds-us-nt-002.ninjatrader.com' port=31655 system=''
+2018-09-18 08:33:34:497 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-18 08:33:34:497 (Demo0918) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-18 08:33:34:497 (Demo0918) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-18 08:33:34:518 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Modify' fcmName='Ninjademo'
+2018-09-18 08:33:34:518 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Modify' fcmName='Ninjademo'
+2018-09-18 08:33:34:535 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-18 08:33:34:535 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-18 08:33:35:505 (Demo0918) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=CashValue currency=UsDollar value=*****
+2018-09-18 08:33:35:514 (Demo0918) Cbi.Account.OnTimerTick.Simulator.Roll: account='Sim101' fcm='' fcmDate='2018-09-17'
+2018-09-18 08:37:17:618 Shutting down NinjaTrader
+2018-09-18 08:37:17:619 Disconnecting 'Demo0918'
+2018-09-18 08:37:17:619 (Demo0918) Cbi.Connection.Disconnect
+2018-09-18 08:37:17:619 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Disconnecting priceStatus=Disconnecting previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-18 08:37:17:619 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Disconnecting previousStatus=Connected message=''
+2018-09-18 08:37:17:620 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close1
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close3
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close4
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close5
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close6a
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close7
+2018-09-18 08:37:17:623 (Demo0918) Cbi.Connection.ConnectionStatusCallback.Close8
+2018-09-18 08:37:17:624 (Demo0918) CQG.Adapter.Disconnect
+2018-09-18 08:37:17:656 (Demo0918) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT12067' accountId='16836561' changeType='Remove' fcmName='Ninjademo'
+2018-09-18 08:37:18:018 (Demo0918) CQG.Adapter.DisconnectNow
+2018-09-18 08:37:18:020 (Demo0918) CQG.Adapter.Dispose
+2018-09-18 08:37:18:022 (Demo0918) Cbi.Connection.ConnectionStatusCallback: status=Disconnected priceStatus=Disconnected previousStatus=Disconnecting previousPriceStatus=Disconnecting errorCode=NoError nativeError=''
+2018-09-18 08:37:18:022 (Demo0918) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Disconnected previousStatus=Disconnecting message=''
+2018-09-18 08:37:18:023 Flushing DB thread
+2018-09-18 08:37:18:023 Shutting down instrument management
+2018-09-18 08:37:18:024 Shutting down instrument threads
+2018-09-18 08:37:18:024 Shutting down BP thread
+2018-09-18 08:37:18:024 Shutting down data recorder
+2018-09-18 08:37:18:031 Shutting down file type watcher
+2018-09-18 08:37:18:031 Shutting down ATI server
+2018-09-18 08:37:18:052 Shutting down auto trade component
+2018-09-18 08:37:18:052 Shutting down SMTP server
+2018-09-18 08:37:18:054 Shutting down adapter server
+2018-09-18 08:37:18:066 Shutting down server(s)
+2018-09-18 08:37:18:073 Shutting down mail thread
+2018-09-18 08:37:18:073 Shutting down sound thread
+2018-09-18 08:37:18:073 Shutting down timer
+2018-09-18 08:37:18:073 Shutting down alerts timer
+2018-09-18 08:37:18:073 Shutting down message timer
+2018-09-18 08:37:18:073 Shutting down db
+2018-09-18 08:37:18:074 Flushing DB thread
+2018-09-18 08:37:18:092 Shutting down bars dictionary
+2018-09-18 08:37:18:094 Shutting down license threads
+2018-09-18 08:37:18:115 Shutting down logs
+2018-09-18 08:37:18:125 Shutting down bars types
+2018-09-18 08:37:18:126 Shutting down UI threads
+2018-09-18 08:37:18:136 ************************ Session End ************************

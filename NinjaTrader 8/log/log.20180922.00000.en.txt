@@ -1,0 +1,49 @@
+2018-09-22 06:28:04:104|2|4|Session Break (Version 8.0.15.1)
+2018-09-22 06:28:05:396|1|4|Verifying license at primary server...
+2018-09-22 06:28:05:821|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-22 06:28:06:996|1|4|Global simulation mode enabled
+2018-09-22 06:28:08:352|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-22 06:28:08:375|1|4|Automated trading disabled
+2018-09-22 06:28:08:458|1|32|Order entry hot keys disabled
+2018-09-22 06:28:08:460|1|4|Auto close enabled=False
+2018-09-22 06:28:09:435|1|4|Restoring workspace 'Untitled'...
+2018-09-22 06:28:09:439|1|4|Restoring workspace 'Default Futures'...
+2018-09-22 06:33:18:208|1|2|NinjaTrader Continuum (Demo): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 06:33:27:560|1|2|NinjaTrader Continuum (Demo): Primary connection=Connected, Price feed=Connected
+2018-09-22 06:33:27:614|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-22 06:33:27:615|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 07:06:09:152|3|4|Failed to resolve instrument for market data: F.US.EP.Z15 could not be resolved.
+2018-09-22 07:06:25:128|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:06:25:458|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-22 07:06:25:458|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-22 07:14:06:799|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803899' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-22 07:14:37:779|1|2|Simulated Data Feed: Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:14:37:780|0|2|Simulated Data Feed: Please close all other connections before connecting to 'Simulated Data Feed' (Panic)
+2018-09-22 07:14:37:780|1|2|Simulated Data Feed: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:30:57:423|1|2|Playback Connection: Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:30:57:424|0|2|Playback Connection: Please close all other connections before connecting to 'Playback Connection' (Panic)
+2018-09-22 07:30:57:424|1|2|Playback Connection: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:31:06:612|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-22 07:31:06:630|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:31:10:976|1|2|NinjaTrader Continuum (Demo): Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-22 07:31:10:980|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803899'
+2018-09-22 07:31:11:430|1|2|NinjaTrader Continuum (Demo): Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:31:15:060|1|2|Playback Connection: Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:31:15:077|1|2|Playback Connection: Primary connection=Connected, Price feed=Connected
+2018-09-22 07:31:15:077|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-22 07:31:15:078|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-22 07:31:15:168|1|2|Simulation account 'Playback101' reset
+2018-09-22 07:31:35:299|1|2|Simulation account 'Playback101' reset
+2018-09-22 07:31:38:539|1|2|Simulation account 'Playback101' reset
+2018-09-22 07:32:00:408|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:32:00:408|0|2|Kinetick – End Of Day (Free): You can't connect while having an open 'Playback Connection' connection (Panic)
+2018-09-22 07:32:00:408|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:32:06:766|1|2|Playback Connection: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-22 07:32:06:768|1|2|Playback Connection: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-22 07:32:10:915|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-22 07:32:11:188|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-22 07:32:11:189|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-22 08:42:50:521|1|4|Workspace Default Futures not saved
+2018-09-22 08:42:51:438|1|4|Workspace Untitled not saved
+2018-09-22 08:42:51:516|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-22 08:42:51:517|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected

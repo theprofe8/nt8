@@ -1,0 +1,420 @@
+******************* Session Start (Version 8.0.15.1) *******************
+2018-09-20 08:09:34:371 InstallDir='C:\Program Files (x86)\NinjaTrader 8\'
+2018-09-20 08:09:34:371 UserDataDir='C:\Users\theProfe8\Documents\NinjaTrader 8\'
+2018-09-20 08:09:34:371 MachineID='071F9A7084CF49BD19BEF98702EF5A0A'
+2018-09-20 08:09:34:371 OS='Microsoft Windows NT 10.0.17134.0'/'Win32NT'
+2018-09-20 08:09:34:371 OSLanguage='en-US'
+2018-09-20 08:09:34:371 OSEnvironment='64bit'
+2018-09-20 08:09:34:372 Processors=8
+2018-09-20 08:09:35:385 ProcessorSpeed=2.8 GHz
+2018-09-20 08:09:35:385 PhysicalMemory=16384 MB
+2018-09-20 08:09:35:409 DisplayAdapters=1/Radeon Pro 555
+2018-09-20 08:09:35:409 Monitors=1/2880x1800
+2018-09-20 08:09:35:409 .NET/CLR Version='4.7.2'/64bit
+2018-09-20 08:09:35:411 SqlCeVersion='4.0.8482.1'
+2018-09-20 08:09:35:412 ApplicationTimezone=EST -3 hour(s)
+2018-09-20 08:09:35:412 ApplicationTimezone=UTC -8 hour(s)
+2018-09-20 08:09:35:412 LocalTimezone=EST -3 hour(s)
+2018-09-20 08:09:35:412 LocalTimezone=UTC -8 hour(s)
+2018-09-20 08:09:35:704 DirectXRenderingHW
+2018-09-20 08:09:35:765 Deleting temporary files...
+2018-09-20 08:09:35:766 Compiling NinjaTrader.Custom...
+2018-09-20 08:09:40:270 Creating directory 'C:\Users\theProfe8\Documents\NinjaTrader 8\db\cache'...
+2018-09-20 08:09:40:272 Copying db and custom assemblies...
+2018-09-20 08:09:40:300 Loading custom assemblies...
+2018-09-20 08:09:40:300 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Custom.dll...
+2018-09-20 08:09:40:321 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Vendor.dll...
+2018-09-20 08:09:40:332 Loading CqgHistoricalData.dll...
+2018-09-20 08:09:40:456 Cbi.Licence.Verify99: type=Regular state=Verified startDate=9/19/2018 endDate=12/30/2098 licensedProviders=' Barchart.com Coinbase E-Signal External IQFeed Kinetick Playback Simulator Custom0 Custom2 Custom3 Custom4 Custom6 Custom7 Custom8 Custom9 Custom10 Custom11 Provider13 Custom14 Provider26 FOREX.com (Beta) NinjaTrader Continuum Rithmic for NinjaTrader Brokerage NinjaTrader FXCM' licensedFeatures=' AutomatedTrading AdvancedStrategyManagement BasicEntry Charting LiveTrading DataConnection SystemDevelopment'
+2018-09-20 08:09:40:456 Initializing database...
+2018-09-20 08:09:40:457 Loading master instruments...
+2018-09-20 08:09:40:621 (Db) Cbi.DB.get_Current.CreateConnection.Start
+2018-09-20 08:09:40:626 (Db) Cbi.DB: connectionString='Data Source="C:\Users\theProfe8\Documents\NinjaTrader 8\db\NinjaTrader.sdf"; Flush Interval=1'
+2018-09-20 08:09:40:991 (Db) Cbi.DB.get_Current.CreateConnection.End
+2018-09-20 08:09:41:409 Loading instruments...
+2018-09-20 08:09:41:780 Loading accounts...
+2018-09-20 08:09:41:850 Loading users...
+2018-09-20 08:09:41:872 Downloading server info...
+2018-09-20 08:09:41:930 Starting instrument management...
+2018-09-20 08:09:41:935 Starting timer...
+2018-09-20 08:09:41:935 Creating file type watcher...
+2018-09-20 08:09:41:936 Setting ATI...
+2018-09-20 08:09:41:947 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-20 08:09:41:956 Connecting ATI server...
+2018-09-20 08:09:41:956 Server.AtiServer.Connect0
+2018-09-20 08:09:41:957 Starting adapter server...
+2018-09-20 08:09:41:959 Server.AtiServer.Connect1: Port='36973'
+2018-09-20 08:09:41:960 Server.AtiServer.Connect2
+2018-09-20 08:09:41:968 Starting bars dictionary...
+2018-09-20 08:09:41:968 Starting data recorder...
+2018-09-20 08:09:41:971 Starting server(s)...
+2018-09-20 08:09:42:003 Core.Globals.ApplicationStart.Commission: minVersion=1 maxVersion=3023
+2018-09-20 08:09:42:003 Core.Globals.ApplicationStart.InstrumentList: minVersion=1 maxVersion=79
+2018-09-20 08:09:42:003 Core.Globals.ApplicationStart.MasterInstrument: minVersion=1 maxVersion=3982
+2018-09-20 08:09:42:003 Core.Globals.ApplicationStart.Risk: minVersion=1 maxVersion=3150
+2018-09-20 08:09:42:003 Core.Globals.ApplicationStart.TradingHours: minVersion=1 maxVersion=3492
+2018-09-20 08:09:42:023 ChartHotKeys: Alerts='' DisableAllAlerts='' EnableAllAlerts='' DataSeries='Ctrl+F' Indicators='Ctrl+I' Strategies='Ctrl+S' Properties='Ctrl+T' CrosshairPointer='Ctrl+R' CrosshairLocal='Ctrl+Q' CrosshairGlobal='Ctrl+G' CrosshairGlobal2='Ctrl+N' CrosshairLock='Ctrl+L' CyclePlotExecutions='Ctrl+E' ReloadHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5' SaveChartImage='Alt+S' ShowDataBox='Ctrl+D' ShowChartTrader='' ShowChartTraderHidden='' ShowScrollBar='' SnapModeBar='' SnapModeBarPrice='' SnapModeDisabled='' SnapModePrice='' StayInDrawMode='' ZoomIn='Ctrl+Alt+Z' ZoomOut='Ctrl+Alt+O' BarSpacingPlus='Ctrl+Down' BarSpacingMinus='Ctrl+Up' BarWidthPlus='Alt+Down' BarWidthMinus='Alt+Up' Arc='Ctrl+F7' AndrewsPitchfork='Ctrl+F8' ArrowDown='Alt+F3' ArrowLine='Ctrl+F2' ArrowUp='Alt+F2' Diamond='Alt+F5' Dot='Alt+F6' Ellipse='Ctrl+F11' ExtendedLine='F4' FibonacciCircle='F11' FibonacciExtension='F9' FibonacciRetracement='F8' FibonacciTimeExtension='F10' GannFan='Ctrl+F9' HorizontalLine='F6' Line='F2' Polygon='Alt+F10' VolumeProfile='Ctrl+3' Ray='F3' Rectangle='Ctrl+F12' RegressionChannel='Ctrl+F10' RemoveDrawingObjects='' RegionHighlightX='Shift+F1' RegionHighlightY='Shift+F2' RiskReward='Ctrl+F4' Ruler='Ctrl+F3' Square='Alt+F7' Text='F12' TimeCycles='Alt+F11' TrendChannel='Ctrl+2' Triangle='Ctrl+F6' TriangleDown='Alt+F9' TriangleUp='Alt+F8' VerticalLine='F7'
+2018-09-20 08:09:42:024 GlobalHotKeys: CloseWorkspace='' NextWorkspace='Shift+F3' PreviousWorkspace='' SaveWorkspace='' NewAccountData='' NewTradePerformance='' NewAlertsLog='' NewBasicEntry='' NewChart='' NewFxBoard='' NewFxPro='' NewHotListAnalyzer='' NewLevel2='' NewMarketAnalyzer='' NewNews='' NewNinjaScriptEditor='' NewNinjaScriptOutput='' NewOrderTicket='' NewStrategyAnalyzer='' NewDynamicDom='' NewStaticDom='' NewTimeAndSales='' CancelAllOrders='' FlattenEverything='' OpenInstrumentManager='' OpenInstrumentList='' OpenDatabase='' OpenHotKeyManager='' OpenHistoricalData='' OpenCommission='' OpenRisk='' OpenTradingHoursManager='' OpenRemoveNinjaScript='' CloseOtherTabs='' CloseTab='' DuplicateInNewTab='' DuplicateInNewWindow='' Export='' Find='Ctrl+F' MoveToNewWindow='' Print='Ctrl+P' Share='Ctrl+Shift+S'
+2018-09-20 08:09:42:024 MarketAnalyzerHotKeys: AddBlankRow='' AddLabelRow='' Columns='' Alerts='' EnableAllAlerts='' DisableAllAlerts='' AutoSort='' RowFilter='' ReloadHistorical='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-20 08:09:42:025 NinjaScriptEditorHotKeys: InsertCodeSnippet='F2' FindNext='F3' Compile='F5' GoToLine='Ctrl+G' CommentSelection='Ctrl+K' InlineSyntaxChecking='Ctrl+Alt+S' Save='Ctrl+S' Undo='Ctrl+Z' Redo='Ctrl+Y'
+2018-09-20 08:09:42:025 OrderEntryHotKeys: BuyAsk='' BuyBid='' BuyMarket='' SellAsk='' SellBid='' SellMarket='' BreakevenAtmStrategy='' BreakevenPosition='' CancelLastOrder='' CloseAtmStrategy='' ClosePosition='' DecreaseLastOrderPrice='' IncreaseLastOrderPrice='' ModifyLastOrder2Fill='' Reverse='' OcoOrder='Ctrl+Z' SimulatedOrder=''
+2018-09-20 08:09:42:026 SuperDomHotKeys: Center='' Columns='' Indicators='' ReloadAllHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-20 08:09:42:026 OrderEntryHotKeys=disabled
+2018-09-20 08:09:42:027 AutoClose=disabled
+2018-09-20 08:09:42:591 PrimaryMonitorWPFDPIScale=0.67
+2018-09-20 08:09:43:491 Starting server message polling timer with interval 3600 seconds...
+2018-09-20 08:10:07:988 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect0: status=Disconnected assembly=8.0.15.1 date=2018-09-20 runAsProcess=False
+2018-09-20 08:10:08:005 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:10:08:009 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:10:08:012 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect1
+2018-09-20 08:10:08:019 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect2
+2018-09-20 08:10:08:019 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect3
+2018-09-20 08:10:08:023 (NinjaTrader Continuum (Demo)) Cbi.Connection.CreateAccount: account='Sim101' displayName='Sim101' fcm='' denomination=UsDollar forexLotSize=10000
+2018-09-20 08:10:08:029 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connecting previousStatus=Disconnected message=''
+2018-09-20 08:10:08:032 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus.PositionExecutions: account='Sim101'
+2018-09-20 08:10:08:034 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect4
+2018-09-20 08:10:08:045 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:10:08:046 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connecting priceStatus=Connecting
+2018-09-20 08:10:08:047 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect5
+2018-09-20 08:10:08:054 (NinjaTrader Continuum (Demo)) CQG.Adapter.Connect: user='demo1059' mode='Simulation' useNativeOcoOrders=True version=7.0.707.0
+2018-09-20 08:10:08:141 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=True foundConnected=False
+2018-09-20 08:10:08:142 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connecting
+2018-09-20 08:10:08:882 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectNow
+2018-09-20 08:10:08:956 (NinjaTrader Continuum (Demo)) CQG.Adapter.Connect9: dataServerRequestsTimeout=90
+2018-09-20 08:10:08:956 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect9 ok
+2018-09-20 08:10:09:541 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='ApplicationLevelCommunicationError' quality='Unavailable' host=''
+2018-09-20 08:10:09:542 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:10:10:486 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='demo.cqgtrader.com'
+2018-09-20 08:10:10:748 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Normal' host='demo.cqgtrader.com'
+2018-09-20 08:10:12:721 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfn001i.cqgrdnet.com'
+2018-09-20 08:10:12:721 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 08:10:12:721 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:10:12:721 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 08:10:12:721 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:10:13:064 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfn001i.cqgrdnet.com'
+2018-09-20 08:10:13:178 (NinjaTrader Continuum (Demo)) CQG.Adapter.SessionManagerLogonCallback0
+2018-09-20 08:10:13:178 (NinjaTrader Continuum (Demo)) CQG.Adapter.SessionManagerCallback5: gwSessionId=1203192384
+2018-09-20 08:10:17:783 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Add' fcmName='Ninjademo'
+2018-09-20 08:10:17:784 (NinjaTrader Continuum (Demo)) Cbi.Connection.CreateAccount: account='TSNT17439' displayName='DEMONT17439!Ninjademo!TSNT17439' fcm='Ninjademo' denomination=UsDollar forexLotSize=1000
+2018-09-20 08:10:17:807 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connecting previousStatus=Disconnected message=''
+2018-09-20 08:10:17:813 (NinjaTrader Continuum (Demo)) CQG.Adapter.RequestAccountItems: FcmAccountId='TSNT17439' IsAccountSummaryDataComplete=True
+2018-09-20 08:10:17:825 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 08:10:17:836 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='TSNT17439' accountItem=CashValue currency=UsDollar value=*****
+2018-09-20 08:10:17:837 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='TSNT17439' accountItem=SodCashValue currency=UsDollar value=*****
+2018-09-20 08:10:17:884 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 08:10:17:884 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Modify' currency='USD' instrumentError='NoError'
+2018-09-20 08:10:17:884 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 08:10:18:045 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-20 08:10:18:045 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:10:18:046 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=Connecting message=''
+2018-09-20 08:10:18:047 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connected previousStatus=Connecting message=''
+2018-09-20 08:10:18:082 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.Start: account='Sim101' fcm=''
+2018-09-20 08:10:18:083 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.Start: account='TSNT17439' fcm='Ninjademo'
+2018-09-20 08:10:18:326 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.End: account='TSNT17439' fcm='Ninjademo'
+2018-09-20 08:10:18:331 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.End: account='Sim101' fcm=''
+2018-09-20 08:10:18:332 (NinjaTrader Continuum (Demo)) Core.Connection.Statistics: connectAttempts=1/10284.3ms
+2018-09-20 08:10:18:332 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: autoClosePositionTime='09/18/2018 00:00:00' autoClosePosition=False
+2018-09-20 08:10:18:333 Server.HdsClient.Connect: type=HDS server='hds-us-nt-002.ninjatrader.com' port=31655 system=''
+2018-09-20 08:10:18:339 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:10:18:339 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:10:18:339 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 08:10:18:363 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 08:10:18:363 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-20 08:10:19:381 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=CashValue currency=UsDollar value=*****
+2018-09-20 08:10:19:382 (NinjaTrader Continuum (Demo)) Cbi.Account.OnTimerTick.Simulator.Roll: account='Sim101' fcm='' fcmDate='2018-09-19'
+2018-09-20 08:10:20:841 ERROR: Failed to resolve instrument for market data: DDZ18 is not enabled for real-time quotes and trading.
+2018-09-20 08:10:20:841 ERROR: Failed to resolve instrument for market data: DSXZ18 is not enabled for real-time quotes and trading.
+2018-09-20 08:10:20:841 ERROR: Failed to resolve instrument for market data: DBZ18 is not enabled for real-time quotes and trading.
+2018-09-20 08:10:22:462 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-18' from='9/16/2018 12:00:00 AM' to='9/19/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:10:22:970 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-17' from='9/20/2017 12:00:00 AM' to='12/10/2017 12:00:00 AM' period='Daily'
+2018-09-20 08:10:22:970 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-18' from='9/20/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:10:23:284 Cbi.Instrument.RequestBars (to Provider): instrument='ES 03-18' from='12/7/2017 12:00:00 AM' to='3/11/2018 12:00:00 AM' period='Daily'
+2018-09-20 08:10:23:488 Cbi.Instrument.RequestBars (to Provider): instrument='ES 06-18' from='3/8/2018 12:00:00 AM' to='6/10/2018 12:00:00 AM' period='Daily'
+2018-09-20 08:10:23:690 Cbi.Instrument.RequestBars (to Provider): instrument='ES 09-18' from='6/7/2018 12:00:00 AM' to='9/16/2018 12:00:00 AM' period='Daily'
+2018-09-20 08:10:23:895 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-18' from='9/13/2018 12:00:00 AM' to='9/21/2018 12:00:00 AM' period='Daily'
+2018-09-20 08:13:33:384 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnDisconnect
+2018-09-20 08:13:33:391 (NinjaTrader Continuum (Demo)) Cbi.Connection.Disconnect
+2018-09-20 08:13:33:391 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Disconnecting priceStatus=Disconnecting previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 08:13:33:391 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Disconnecting previousStatus=Connected message=''
+2018-09-20 08:13:33:391 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Disconnecting previousStatus=Connected message=''
+2018-09-20 08:13:33:394 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Disconnecting priceStatus=Disconnecting previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 08:13:33:394 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close1
+2018-09-20 08:13:33:401 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Disconnecting priceStatus=Disconnecting previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 08:13:33:401 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Disconnecting priceStatus=Disconnecting
+2018-09-20 08:13:33:401 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=False
+2018-09-20 08:13:33:401 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnected
+2018-09-20 08:13:33:402 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close3
+2018-09-20 08:13:33:417 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close4
+2018-09-20 08:13:33:417 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close5
+2018-09-20 08:13:33:417 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close6a
+2018-09-20 08:13:33:418 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close7
+2018-09-20 08:13:33:418 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback.Close8
+2018-09-20 08:13:33:426 (NinjaTrader Continuum (Demo)) CQG.Adapter.Disconnect
+2018-09-20 08:13:33:461 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Remove' currency='USD' instrumentError='NoError'
+2018-09-20 08:13:33:461 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Remove' fcmName='Ninjademo'
+2018-09-20 08:13:33:940 (NinjaTrader Continuum (Demo)) CQG.Adapter.DisconnectNow
+2018-09-20 08:13:33:942 (NinjaTrader Continuum (Demo)) CQG.Adapter.Dispose
+2018-09-20 08:13:33:946 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Disconnected priceStatus=Disconnected previousStatus=Disconnecting previousPriceStatus=Disconnecting errorCode=NoError nativeError=''
+2018-09-20 08:13:33:946 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Disconnected previousStatus=Disconnecting message=''
+2018-09-20 08:13:33:946 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Disconnected previousStatus=Disconnecting message=''
+2018-09-20 08:13:33:950 Flushing DB thread
+2018-09-20 08:13:33:950 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Disconnected priceStatus=Disconnected previousStatus=Disconnecting previousPriceStatus=Disconnecting errorCode=NoError nativeError=''
+2018-09-20 08:13:33:951 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Disconnected priceStatus=Disconnected previousStatus=Disconnecting previousPriceStatus=Disconnecting errorCode=NoError nativeError=''
+2018-09-20 08:13:33:951 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Using args status=Disconnected
+2018-09-20 08:13:49:440 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnect
+2018-09-20 08:13:49:443 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect0: status=Disconnected assembly=8.0.15.1 date=2018-09-20 runAsProcess=False
+2018-09-20 08:13:49:443 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:13:49:443 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:13:49:443 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect1
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect2
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect3
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Connection.CreateAccount: account='Sim101' displayName='Sim101' fcm='' denomination=UsDollar forexLotSize=10000
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connecting previousStatus=Disconnected message=''
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus.PositionExecutions: account='Sim101'
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect4
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect5
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connecting priceStatus=Connecting
+2018-09-20 08:13:49:444 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=True foundConnected=False
+2018-09-20 08:13:49:444 (NinjaTrader Continuum (Demo)) CQG.Adapter.Connect: user='demo1059' mode='Simulation' useNativeOcoOrders=True version=7.0.707.0
+2018-09-20 08:13:49:444 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connecting
+2018-09-20 08:13:49:698 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectNow
+2018-09-20 08:13:49:739 (NinjaTrader Continuum (Demo)) CQG.Adapter.Connect9: dataServerRequestsTimeout=90
+2018-09-20 08:13:49:739 (NinjaTrader Continuum (Demo)) Cbi.Connection.Connect9 ok
+2018-09-20 08:13:50:017 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='ApplicationLevelCommunicationError' quality='Unavailable' host=''
+2018-09-20 08:13:50:017 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:13:50:022 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='demo.cqgtrader.com'
+2018-09-20 08:13:50:217 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Normal' host='demo.cqgtrader.com'
+2018-09-20 08:13:51:372 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 08:13:51:372 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:13:51:372 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfn001i.cqgrdnet.com'
+2018-09-20 08:13:51:372 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 08:13:51:372 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 08:13:54:704 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfn001i.cqgrdnet.com'
+2018-09-20 08:13:54:759 (NinjaTrader Continuum (Demo)) CQG.Adapter.SessionManagerLogonCallback0
+2018-09-20 08:13:54:759 (NinjaTrader Continuum (Demo)) CQG.Adapter.SessionManagerCallback5: gwSessionId=1203192459
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Add' fcmName='Ninjademo'
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) Cbi.Connection.CreateAccount: account='TSNT17439' displayName='DEMONT17439!Ninjademo!TSNT17439' fcm='Ninjademo' denomination=UsDollar forexLotSize=1000
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connecting previousStatus=Disconnected message=''
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) CQG.Adapter.RequestAccountItems: FcmAccountId='TSNT17439' IsAccountSummaryDataComplete=True
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 08:13:56:345 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='TSNT17439' accountItem=CashValue currency=UsDollar value=*****
+2018-09-20 08:13:56:354 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='TSNT17439' accountItem=SodCashValue currency=UsDollar value=*****
+2018-09-20 08:13:56:355 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 08:13:56:355 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Modify' currency='USD' instrumentError='NoError'
+2018-09-20 08:13:56:356 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=Connecting message=''
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.Start: account='Sim101' fcm=''
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connected previousStatus=Connecting message=''
+2018-09-20 08:13:56:426 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.Start: account='TSNT17439' fcm='Ninjademo'
+2018-09-20 08:13:56:430 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.End: account='Sim101' fcm=''
+2018-09-20 08:13:56:436 (NinjaTrader Continuum (Demo)) Cbi.Account.Restore.End: account='TSNT17439' fcm='Ninjademo'
+2018-09-20 08:13:56:436 (NinjaTrader Continuum (Demo)) Core.Connection.Statistics: connectAttempts=2/8638.3ms
+2018-09-20 08:13:56:437 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: autoClosePositionTime='09/18/2018 00:00:00' autoClosePosition=False
+2018-09-20 08:13:56:437 Server.HdsClient.Connect: type=HDS server='hds-us-nt-002.ninjatrader.com' port=31655 system=''
+2018-09-20 08:13:56:439 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:13:56:439 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:13:56:439 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 08:13:56:439 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 08:13:56:440 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-20 08:13:56:502 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-18' from='9/20/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:13:56:846 Cbi.Instrument.RequestBars (to Provider): instrument='ES 12-18' from='9/20/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:14:14:894 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnect
+2018-09-20 08:14:14:895 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect0: status=Disconnected assembly=8.0.15.1 date=2018-09-20 runAsProcess=False
+2018-09-20 08:14:14:895 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:14:14:895 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:14:14:896 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect1
+2018-09-20 08:14:14:897 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect2
+2018-09-20 08:14:14:897 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect3
+2018-09-20 08:14:14:897 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=Connecting priceStatus=Connecting previousStatus=Disconnected previousPriceStatus=Disconnected errorCode=NoError nativeError=''
+2018-09-20 08:14:14:897 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect4
+2018-09-20 08:14:14:897 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 08:14:14:897 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connecting priceStatus=Connecting
+2018-09-20 08:14:14:897 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=True foundConnected=True
+2018-09-20 08:14:14:897 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connecting
+2018-09-20 08:14:14:912 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect5
+2018-09-20 08:14:14:914 (Kinetick – End Of Day (Free)) Kinetick.Adapter.Connect: login= newsDaysBack=1
+2018-09-20 08:14:14:939 (Kinetick – End Of Day (Free)) Kinetick.Adapter.Connect0
+2018-09-20 08:14:15:277 (Kinetick – End Of Day (Free)) Kinetick.Adapter.ConnectInitialServerInfo.AccountLogin: 66.112.156.210:60000
+2018-09-20 08:14:15:277 (Kinetick – End Of Day (Free)) Kinetick.Adapter.ConnectInitialServerInfo.HistoryLookup: 66.112.156.217:60050
+2018-09-20 08:14:15:277 (Kinetick – End Of Day (Free)) Kinetick.Adapter.ConnectInitialServerInfo.MarketDepthLogin: 66.112.156.212:60016
+2018-09-20 08:14:15:277 (Kinetick – End Of Day (Free)) Kinetick.Adapter.ConnectInitialServerInfo.News: 66.112.156.209:60018
+2018-09-20 08:14:15:282 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:14:15:282 (Kinetick – End Of Day (Free)) Core.Connection.Statistics: connectAttempts=3/5882.3ms
+2018-09-20 08:14:15:282 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: autoClosePositionTime='09/18/2018 00:00:00' autoClosePosition=False
+2018-09-20 08:14:15:283 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:14:15:283 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=Connected priceStatus=Connected previousStatus=Connecting previousPriceStatus=Connecting errorCode=NoError nativeError=''
+2018-09-20 08:14:15:283 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 08:14:15:283 (Kinetick – End Of Day (Free)) Cbi.Connection.Connect9 ok
+2018-09-20 08:14:15:283 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 08:14:15:283 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 08:14:15:284 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-20 08:18:30:087 Cbi.Instrument.RequestBars (to Provider): instrument='6E 09-18' from='9/16/2018 12:00:00 AM' to='9/19/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:18:32:274 Cbi.Instrument.RequestBars (to Provider): instrument='6E 09-18' from='9/19/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:19:31:128 Cbi.Instrument.RequestBars (to Provider): instrument='CL 10-18' from='9/16/2018 12:00:00 AM' to='9/19/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:19:31:535 Cbi.Instrument.RequestBars (to Provider): instrument='CL 10-18' from='9/19/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:22:11:592 Cbi.Instrument.RequestBars (to Provider): instrument='CL 10-18' from='9/20/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:22:32:738 Cbi.Instrument.RequestBars (to Provider): instrument='ES 09-18' from='9/19/2018 12:00:00 AM' to='9/19/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 08:22:33:159 Cbi.Instrument.RequestBars (to Provider): instrument='ES 09-18' from='9/20/2018 12:00:00 AM' to='9/20/2018 12:00:00 AM' period='1 Minute'
+2018-09-20 11:48:17:507 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-20 11:48:23:245 (Kinetick – End Of Day (Free)) Kinetick.Adapter.OnNetworkAvailablityChanged: isAvailable=False
+2018-09-20 11:48:23:245 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:23:247 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:23:247 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:23:247 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 11:48:23:247 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:23:247 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=True
+2018-09-20 11:48:23:247 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 11:48:23:985 (Kinetick – End Of Day (Free)) Kinetick.Adapter.OnNetworkAvailablityChanged: isAvailable=True
+2018-09-20 11:48:23:985 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:23:986 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:23:986 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:23:986 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 11:48:23:986 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 11:48:23:986 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 11:48:23:986 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='DEMO.CQGTRADER.COM'
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged2
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=ConnectionLost previousStatus=Connected message=''
+2018-09-20 11:48:24:117 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=ConnectionLost previousStatus=Connected message=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfq040IMSi.cqgrdnet.com'
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfn001i.cqgrdnet.com'
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=Connected previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:24:118 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 11:48:24:118 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=True
+2018-09-20 11:48:24:118 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:24:118 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 11:48:24:118 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='demo.cqgtrader.com'
+2018-09-20 11:48:24:118 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=True
+2018-09-20 11:48:24:118 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 11:48:24:708 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='DEMO.CQGTRADER.COM'
+2018-09-20 11:48:24:709 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='sandbox.cqgtrader.com'
+2018-09-20 11:48:26:765 (Kinetick – End Of Day (Free)) Kinetick.Adapter.OnNetworkAvailablityChanged: isAvailable=False
+2018-09-20 11:48:26:765 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:26:765 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:26:765 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 11:48:26:765 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:26:765 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:26:765 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=False
+2018-09-20 11:48:26:765 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Slow' host='sandbox.cqgtrader.com'
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged3
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) CQG.Adapter.RequestAccountItems: FcmAccountId='TSNT17439' IsAccountSummaryDataComplete=True
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=ConnectionLost message=''
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connected previousStatus=ConnectionLost message=''
+2018-09-20 11:48:26:835 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:26:836 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 11:48:26:836 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-20 11:48:26:836 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 11:48:26:836 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=True
+2018-09-20 11:48:26:836 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=Commission currency=UsDollar value=*****
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=Fee currency=UsDollar value=*****
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=GrossRealizedProfitLoss currency=UsDollar value=*****
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=RealizedProfitLoss currency=UsDollar value=*****
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.AccountItemUpdateCallback: account='Sim101' accountItem=RealizedProfitLoss currency=UsDollar value=*****
+2018-09-20 23:27:34:365 (NinjaTrader Continuum (Demo)) Cbi.Account.OnTimerTick.Simulator.Roll: account='Sim101' fcm='' fcmDate='2018-09-20'
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='SANDBOX.CQGTRADER.COM'
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged2
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='ConnectionLost' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=ConnectionLost previousStatus=Connected message=''
+2018-09-20 23:27:38:316 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=ConnectionLost previousStatus=Connected message=''
+2018-09-20 23:27:38:326 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:38:328 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=ConnectionLost priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:38:328 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 23:27:38:328 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 23:27:38:328 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=False
+2018-09-20 23:27:38:328 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 23:27:38:577 (94877da9ab244f148dcfdc4c9c1828cc) Cbi.NinjaTraderProxy.OnSocketCompleted.SocketError: remoteEndPoint='208.48.16.147:31655' socketError=TimedOut
+2018-09-20 23:27:38:696 ERROR: Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-20 23:27:39:567 (Kinetick – End Of Day (Free)) Kinetick.Adapter.OnNetworkAvailablityChanged: isAvailable=True
+2018-09-20 23:27:39:567 (Kinetick – End Of Day (Free)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:39:568 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider7 status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:39:568 (Kinetick – End Of Day (Free)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider7 status=Connected priceStatus=Connected previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:39:568 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=ConnectionLost priceStatus=ConnectionLost
+2018-09-20 23:27:39:568 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 23:27:39:568 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=True foundConnectingStatus=False foundConnected=True
+2018-09-20 23:27:39:568 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Disconnecting
+2018-09-20 23:27:39:611 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-20 23:27:39:652 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='sandbox.cqgtrader.com'
+2018-09-20 23:27:48:699 Server.HdsClient.Connect: type=HDS server='hds-us-nt-002.ninjatrader.com' port=31655 system=''
+2018-09-20 23:27:50:199 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='SANDBOX.CQGTRADER.COM'
+2018-09-20 23:27:50:199 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Unavailable' host='sandbox.cqgtrader.com'
+2018-09-20 23:27:50:373 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 23:27:50:373 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Order Routing' quality='Normal' host='sandbox.cqgtrader.com'
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged3
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) CQG.Adapter.RequestAccountItems: FcmAccountId='TSNT17439' IsAccountSummaryDataComplete=True
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='Sim101' fcm='' status=Connected previousStatus=ConnectionLost message=''
+2018-09-20 23:27:50:427 (NinjaTrader Continuum (Demo)) Cbi.Account.OnConnectionStatus: account='TSNT17439' fcm='Ninjademo' status=Connected previousStatus=ConnectionLost message=''
+2018-09-20 23:27:50:428 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:50:428 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=ConnectionLost previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:50:428 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-20 23:27:50:428 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 23:27:50:428 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 23:27:50:428 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-20 23:27:50:575 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginsfq040imsi.cqgrdnet.com'
+2018-09-20 23:27:50:575 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 23:27:50:867 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Remove' fcmName='Ninjademo'
+2018-09-20 23:27:50:907 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Remove' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:50:907 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:51:594 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfc011i.cqgrdnet.com'
+2018-09-20 23:27:51:594 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-20 23:27:51:594 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-20 23:27:51:594 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:51:594 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:51:595 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:27:51:595 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 23:27:51:595 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 23:27:51:595 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 23:27:51:595 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected
+2018-09-20 23:27:56:081 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Modify' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:56:087 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Add' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:56:087 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Add' fcmName='Ninjademo'
+2018-09-20 23:27:56:087 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 23:27:56:087 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountSummaryChanged: accountDisplayName='DEMONT17439!Ninjademo!TSNT17439' changeType='Modify' currency='USD' instrumentError='NoError'
+2018-09-20 23:27:56:087 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnAccountChanged: fcmAccountId='TSNT17439' accountId='16843654' changeType='Modify' fcmName='Ninjademo'
+2018-09-20 23:28:34:178 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Unavailable' host='cqginchi007ci.cqgnet.com'
+2018-09-20 23:28:34:178 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 23:28:34:330 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='Instrument Metadata' quality='Normal' host='cqginchi007ci.cqgnet.com'
+2018-09-20 23:28:34:330 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged1
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Unavailable' host='cqginsfc011i.cqgrdnet.com'
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='ConnectionLost' error='NoError' nativeError='' forced=False
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=ConnectionLost previousStatus=Connected previousPriceStatus=Connected errorCode=NoError nativeError=''
+2018-09-20 23:28:38:122 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=ConnectionLost
+2018-09-20 23:28:38:122 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 23:28:38:122 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=True foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 23:28:38:122 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=ConnectionLost
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged: serviceName='SecBuf' quality='Normal' host='cqginsfn002i.cqgrdnet.com'
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) CQG.Adapter.OnConnectionQualityChanged4
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) CQG.Adapter.ConnectionStatusHandler: dataStatus='Connected' priceStatus='Connected' error='NoError' nativeError='' forced=False
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) Cbi.Connection.ConnectionStatusCallback: status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) NinjaTrader.Gui.ControlCenter.OnConnectionStatus.DispatcherInvoke: Provider18 status=Connected priceStatus=Connected previousStatus=Connected previousPriceStatus=ConnectionLost errorCode=NoError nativeError=''
+2018-09-20 23:28:39:531 (NinjaTrader Continuum (Demo)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider18 status=Connected priceStatus=Connected
+2018-09-20 23:28:39:531 (Kinetick – End Of Day (Free)) Gui.ControlCenter.OnConnectionStatus.Adding: provider=Provider7 status=Connected priceStatus=Connected
+2018-09-20 23:28:39:531 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: foundPriceLoss=False foundTradeLoss=False foundConnectingStatus=False foundConnected=True
+2018-09-20 23:28:39:531 NinjaTrader.Gui.ControlCenter.OnConnectionStatus: Status=Connected

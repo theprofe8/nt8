@@ -1,0 +1,15 @@
+2018-09-20 07:58:09:644|2|4|Session Break (Version 8.0.15.1)
+2018-09-20 07:58:10:982|1|4|Verifying license at primary server...
+2018-09-20 07:58:11:152|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-20 07:58:12:347|1|4|Global simulation mode enabled
+2018-09-20 07:58:13:165|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-20 07:58:13:178|1|4|Automated trading disabled
+2018-09-20 07:58:13:198|1|32|Order entry hot keys disabled
+2018-09-20 07:58:13:198|1|4|Auto close enabled=False
+2018-09-20 07:58:33:720|1|4|Restoring workspace 'Untitled'...
+2018-09-20 07:58:46:093|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:58:46:521|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-20 07:58:46:588|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-20 07:58:57:211|1|4|Workspace Untitled not saved
+2018-09-20 07:58:57:307|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-20 07:58:57:317|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected

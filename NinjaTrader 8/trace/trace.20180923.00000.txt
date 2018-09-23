@@ -1,0 +1,87 @@
+******************* Session Start (Version 8.0.15.1) *******************
+2018-09-23 01:07:46:867 InstallDir='C:\Program Files (x86)\NinjaTrader 8\'
+2018-09-23 01:07:46:867 UserDataDir='C:\Users\theProfe8\Documents\NinjaTrader 8\'
+2018-09-23 01:07:46:867 MachineID='071F9A7084CF49BD19BEF98702EF5A0A'
+2018-09-23 01:07:46:867 OS='Microsoft Windows NT 10.0.17134.0'/'Win32NT'
+2018-09-23 01:07:46:867 OSLanguage='en-US'
+2018-09-23 01:07:46:867 OSEnvironment='64bit'
+2018-09-23 01:07:46:867 Processors=8
+2018-09-23 01:07:47:892 ProcessorSpeed=2.8 GHz
+2018-09-23 01:07:47:892 PhysicalMemory=16384 MB
+2018-09-23 01:07:47:906 DisplayAdapters=1/Radeon Pro 555
+2018-09-23 01:07:47:906 Monitors=1/2880x1800
+2018-09-23 01:07:47:906 .NET/CLR Version='4.7.2'/64bit
+2018-09-23 01:07:47:907 SqlCeVersion='4.0.8482.1'
+2018-09-23 01:07:47:907 ApplicationTimezone=EST -3 hour(s)
+2018-09-23 01:07:47:907 ApplicationTimezone=UTC -8 hour(s)
+2018-09-23 01:07:47:907 LocalTimezone=EST -3 hour(s)
+2018-09-23 01:07:47:907 LocalTimezone=UTC -8 hour(s)
+2018-09-23 01:07:48:039 DirectXRenderingHW
+2018-09-23 01:07:48:040 Deleting temporary files...
+2018-09-23 01:07:48:043 Copying db and custom assemblies...
+2018-09-23 01:07:48:085 Loading custom assemblies...
+2018-09-23 01:07:48:085 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Custom.dll...
+2018-09-23 01:07:48:146 Loading C:\Users\theProfe8\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Vendor.dll...
+2018-09-23 01:07:48:159 Loading CqgHistoricalData.dll...
+2018-09-23 01:07:48:389 Cbi.Licence.Verify99: type=Regular state=Verified startDate=9/19/2018 endDate=12/30/2098 licensedProviders=' Barchart.com Coinbase E-Signal External IQFeed Kinetick Playback Simulator Custom0 Custom2 Custom3 Custom4 Custom6 Custom7 Custom8 Custom9 Custom10 Custom11 Provider13 Custom14 Provider26 FOREX.com (Beta) NinjaTrader Continuum Rithmic for NinjaTrader Brokerage NinjaTrader FXCM' licensedFeatures=' AutomatedTrading AdvancedStrategyManagement BasicEntry Charting LiveTrading DataConnection SystemDevelopment'
+2018-09-23 01:07:48:389 Initializing database...
+2018-09-23 01:07:48:389 Loading master instruments...
+2018-09-23 01:07:48:562 (Db) Cbi.DB.get_Current.CreateConnection.Start
+2018-09-23 01:07:48:564 (Db) Cbi.DB: connectionString='Data Source="C:\Users\theProfe8\Documents\NinjaTrader 8\db\NinjaTrader.sdf"; Flush Interval=1'
+2018-09-23 01:07:48:980 (Db) Cbi.DB.get_Current.CreateConnection.End
+2018-09-23 01:07:49:178 Loading instruments...
+2018-09-23 01:07:49:435 Loading accounts...
+2018-09-23 01:07:49:523 Loading users...
+2018-09-23 01:07:49:545 Downloading server info...
+2018-09-23 01:07:49:616 Starting instrument management...
+2018-09-23 01:07:49:621 Starting timer...
+2018-09-23 01:07:49:621 Creating file type watcher...
+2018-09-23 01:07:49:622 Setting ATI...
+2018-09-23 01:07:49:637 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2018-09-23 01:07:49:647 Connecting ATI server...
+2018-09-23 01:07:49:648 Server.AtiServer.Connect0
+2018-09-23 01:07:49:648 Starting adapter server...
+2018-09-23 01:07:49:651 Server.AtiServer.Connect1: Port='36973'
+2018-09-23 01:07:49:651 Server.AtiServer.Connect2
+2018-09-23 01:07:49:659 Starting bars dictionary...
+2018-09-23 01:07:49:659 Starting data recorder...
+2018-09-23 01:07:49:664 Starting server(s)...
+2018-09-23 01:07:49:696 Core.Globals.ApplicationStart.Commission: minVersion=1 maxVersion=3023
+2018-09-23 01:07:49:696 Core.Globals.ApplicationStart.InstrumentList: minVersion=-79 maxVersion=79
+2018-09-23 01:07:49:696 Core.Globals.ApplicationStart.MasterInstrument: minVersion=1 maxVersion=3982
+2018-09-23 01:07:49:696 Core.Globals.ApplicationStart.Risk: minVersion=1 maxVersion=3151
+2018-09-23 01:07:49:696 Core.Globals.ApplicationStart.TradingHours: minVersion=1 maxVersion=3492
+2018-09-23 01:07:49:720 ChartHotKeys: Alerts='' DisableAllAlerts='' EnableAllAlerts='' DataSeries='Ctrl+F' Indicators='Ctrl+I' Strategies='Ctrl+S' Properties='Ctrl+T' CrosshairPointer='Ctrl+R' CrosshairLocal='Ctrl+Q' CrosshairGlobal='Ctrl+G' CrosshairGlobal2='Ctrl+N' CrosshairLock='Ctrl+L' CyclePlotExecutions='Ctrl+E' ReloadHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5' SaveChartImage='Alt+S' ShowDataBox='Ctrl+D' ShowChartTrader='' ShowChartTraderHidden='' ShowScrollBar='' SnapModeBar='' SnapModeBarPrice='' SnapModeDisabled='' SnapModePrice='' StayInDrawMode='' ZoomIn='Ctrl+Alt+Z' ZoomOut='Ctrl+Alt+O' BarSpacingPlus='Ctrl+Down' BarSpacingMinus='Ctrl+Up' BarWidthPlus='Alt+Down' BarWidthMinus='Alt+Up' Arc='Ctrl+F7' AndrewsPitchfork='Ctrl+F8' ArrowDown='Alt+F3' ArrowLine='Ctrl+F2' ArrowUp='Alt+F2' Diamond='Alt+F5' Dot='Alt+F6' Ellipse='Ctrl+F11' ExtendedLine='F4' FibonacciCircle='F11' FibonacciExtension='F9' FibonacciRetracement='F8' FibonacciTimeExtension='F10' GannFan='Ctrl+F9' HorizontalLine='F6' Line='F2' Polygon='Alt+F10' VolumeProfile='Ctrl+3' Ray='F3' Rectangle='Ctrl+F12' RegressionChannel='Ctrl+F10' RemoveDrawingObjects='' RegionHighlightX='Shift+F1' RegionHighlightY='Shift+F2' RiskReward='Ctrl+F4' Ruler='Ctrl+F3' Square='Alt+F7' Text='F12' TimeCycles='Alt+F11' TrendChannel='Ctrl+2' Triangle='Ctrl+F6' TriangleDown='Alt+F9' TriangleUp='Alt+F8' VerticalLine='F7'
+2018-09-23 01:07:49:721 GlobalHotKeys: CloseWorkspace='' NextWorkspace='Shift+F3' PreviousWorkspace='' SaveWorkspace='' NewAccountData='' NewTradePerformance='' NewAlertsLog='' NewBasicEntry='' NewChart='' NewFxBoard='' NewFxPro='' NewHotListAnalyzer='' NewLevel2='' NewMarketAnalyzer='' NewNews='' NewNinjaScriptEditor='' NewNinjaScriptOutput='' NewOrderTicket='' NewStrategyAnalyzer='' NewDynamicDom='' NewStaticDom='' NewTimeAndSales='' CancelAllOrders='' FlattenEverything='' OpenInstrumentManager='' OpenInstrumentList='' OpenDatabase='' OpenHotKeyManager='' OpenHistoricalData='' OpenCommission='' OpenRisk='' OpenTradingHoursManager='' OpenRemoveNinjaScript='' CloseOtherTabs='' CloseTab='' DuplicateInNewTab='' DuplicateInNewWindow='' Export='' Find='Ctrl+F' MoveToNewWindow='' Print='Ctrl+P' Share='Ctrl+Shift+S'
+2018-09-23 01:07:49:722 MarketAnalyzerHotKeys: AddBlankRow='' AddLabelRow='' Columns='' Alerts='' EnableAllAlerts='' DisableAllAlerts='' AutoSort='' RowFilter='' ReloadHistorical='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-23 01:07:49:722 NinjaScriptEditorHotKeys: InsertCodeSnippet='F2' FindNext='F3' Compile='F5' GoToLine='Ctrl+G' CommentSelection='Ctrl+K' InlineSyntaxChecking='Ctrl+Alt+S' Save='Ctrl+S' Undo='Ctrl+Z' Redo='Ctrl+Y'
+2018-09-23 01:07:49:723 OrderEntryHotKeys: BuyAsk='' BuyBid='' BuyMarket='' SellAsk='' SellBid='' SellMarket='' BreakevenAtmStrategy='' BreakevenPosition='' CancelLastOrder='' CloseAtmStrategy='' ClosePosition='' DecreaseLastOrderPrice='' IncreaseLastOrderPrice='' ModifyLastOrder2Fill='' Reverse='' OcoOrder='Ctrl+Z' SimulatedOrder=''
+2018-09-23 01:07:49:723 SuperDomHotKeys: Center='' Columns='' Indicators='' ReloadAllHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2018-09-23 01:07:49:723 OrderEntryHotKeys=disabled
+2018-09-23 01:07:49:725 AutoClose=disabled
+2018-09-23 01:07:50:321 PrimaryMonitorWPFDPIScale=0.67
+2018-09-23 01:07:51:370 Starting server message polling timer with interval 3600 seconds...
+2018-09-23 01:08:05:334 Shutting down NinjaTrader
+2018-09-23 01:08:05:334 Shutting down instrument management
+2018-09-23 01:08:05:335 Shutting down instrument threads
+2018-09-23 01:08:05:338 Shutting down BP thread
+2018-09-23 01:08:05:338 Shutting down data recorder
+2018-09-23 01:08:05:342 Shutting down file type watcher
+2018-09-23 01:08:05:342 Shutting down ATI server
+2018-09-23 01:08:05:344 Shutting down auto trade component
+2018-09-23 01:08:05:346 Shutting down SMTP server
+2018-09-23 01:08:05:348 Shutting down adapter server
+2018-09-23 01:08:05:363 Shutting down server(s)
+2018-09-23 01:08:05:367 Shutting down mail thread
+2018-09-23 01:08:05:367 Shutting down sound thread
+2018-09-23 01:08:05:367 Shutting down timer
+2018-09-23 01:08:05:367 Shutting down alerts timer
+2018-09-23 01:08:05:367 Shutting down message timer
+2018-09-23 01:08:05:367 Shutting down db
+2018-09-23 01:08:05:368 Flushing DB thread
+2018-09-23 01:08:05:390 Shutting down bars dictionary
+2018-09-23 01:08:05:396 Shutting down license threads
+2018-09-23 01:08:05:417 Shutting down logs
+2018-09-23 01:08:05:428 Shutting down bars types
+2018-09-23 01:08:05:430 Shutting down UI threads
+2018-09-23 01:08:05:435 ************************ Session End ************************

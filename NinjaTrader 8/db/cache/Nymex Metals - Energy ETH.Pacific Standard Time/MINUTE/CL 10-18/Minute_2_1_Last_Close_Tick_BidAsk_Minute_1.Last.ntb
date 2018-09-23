@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <Version>8.0.15.1</Version>
+  <TypeName>NinjaTrader.NinjaScript.BarsTypes.MinuteBarsType</TypeName>
+  <BarsType>
+    <MinuteBarsType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <IsVisible>true</IsVisible>
+      <BarsPeriod>
+        <BarsPeriodTypeSerialize>4</BarsPeriodTypeSerialize>
+        <BaseBarsPeriodType>Minute</BaseBarsPeriodType>
+        <BaseBarsPeriodValue>1</BaseBarsPeriodValue>
+        <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+        <MarketDataType>Last</MarketDataType>
+        <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+        <ReversalType>Tick</ReversalType>
+        <Value>2</Value>
+        <Value2>1</Value2>
+      </BarsPeriod>
+      <BuiltFrom>Minute</BuiltFrom>
+      <DayCount>0</DayCount>
+      <DaysToLoad>5</DaysToLoad>
+      <IsIntraday>true</IsIntraday>
+      <IsTimeBased>true</IsTimeBased>
+      <TickCount>1</TickCount>
+      <TicksOnLastSecond>0</TicksOnLastSecond>
+    </MinuteBarsType>
+  </BarsType>
+</NinjaTrader>

@@ -1,0 +1,19 @@
+2018-09-20 07:55:20:664|2|4|Session Break (Version 8.0.15.1)
+2018-09-20 07:55:21:998|1|4|Verifying license at primary server...
+2018-09-20 07:55:22:151|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-20 07:55:23:341|1|4|Global simulation mode enabled
+2018-09-20 07:55:24:238|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-20 07:55:24:251|1|4|Automated trading disabled
+2018-09-20 07:55:24:272|1|32|Order entry hot keys disabled
+2018-09-20 07:55:24:272|1|4|Auto close enabled=False
+2018-09-20 07:55:24:818|1|4|Restoring workspace 'Untitled'...
+2018-09-20 07:56:07:759|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:56:17:555|1|2|demo360820: Primary connection=Connected, Price feed=Connected
+2018-09-20 07:56:17:615|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-20 07:56:17:616|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-20 07:57:47:546|1|2|Simulated Data Feed: Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:57:47:555|0|2|Simulated Data Feed: Please close all other connections before connecting to 'Simulated Data Feed' (Panic)
+2018-09-20 07:57:47:555|1|2|Simulated Data Feed: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-20 07:57:53:803|1|2|demo360820: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-20 07:57:54:320|1|2|demo360820: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-20 07:58:06:538|1|4|Workspace Untitled not saved

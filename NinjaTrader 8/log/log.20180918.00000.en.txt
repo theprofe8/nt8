@@ -1,0 +1,16 @@
+2018-09-18 08:14:31:451|2|4|Session Break (Version 8.0.15.1)
+2018-09-18 08:14:32:997|1|4|Verifying license at primary server...
+2018-09-18 08:14:33:609|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-18 08:14:42:161|1|4|Global simulation mode enabled
+2018-09-18 08:14:47:678|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-18 08:14:47:687|1|4|Automated trading disabled
+2018-09-18 08:14:47:724|1|32|Order entry hot keys disabled
+2018-09-18 08:14:47:725|1|4|Auto close enabled=False
+2018-09-18 08:17:48:184|1|4|Restoring workspace 'Untitled'...
+2018-09-18 08:33:25:425|1|2|Demo0918: Primary connection=Connecting, Price feed=Connecting
+2018-09-18 08:33:34:446|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-18 08:33:34:483|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-18 08:33:34:484|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-18 08:37:17:313|1|4|Workspace Untitled saved
+2018-09-18 08:37:17:619|1|2|Demo0918: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-18 08:37:18:022|1|2|Demo0918: Primary connection=Disconnected, Price feed=Disconnected

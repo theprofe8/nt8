@@ -1,0 +1,30 @@
+2018-09-18 08:37:22:671|2|4|Session Break (Version 8.0.15.1)
+2018-09-18 08:37:24:261|1|4|Verifying license at primary server...
+2018-09-18 08:37:24:455|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-18 08:37:25:974|1|4|Global simulation mode enabled
+2018-09-18 08:37:27:148|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-18 08:37:27:153|1|4|Automated trading disabled
+2018-09-18 08:37:27:154|1|4|Auto connecting 'Demo0918'...
+2018-09-18 08:37:27:186|1|2|Demo0918: Primary connection=Connecting, Price feed=Connecting
+2018-09-18 08:37:27:269|1|32|Order entry hot keys disabled
+2018-09-18 08:37:27:270|1|4|Auto close enabled=False
+2018-09-18 08:37:28:188|1|4|Restoring workspace 'Untitled'...
+2018-09-18 08:37:36:406|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-18 08:37:36:463|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-18 08:37:36:464|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-18 09:12:51:305|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-18 23:06:49:738|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-18 23:06:50:069|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connected
+2018-09-18 23:06:50:088|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connection lost
+2018-09-18 23:06:50:088|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-18 23:06:50:739|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connection lost
+2018-09-18 23:06:51:638|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-18 23:06:51:799|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-18 23:07:02:722|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-18 23:07:12:724|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-18 23:07:12:888|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-18 23:07:49:309|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-18 23:07:49:711|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-18 23:24:50:190|1|4|Workspace Untitled not saved
+2018-09-18 23:24:50:394|1|2|Demo0918: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-18 23:24:50:815|1|2|Demo0918: Primary connection=Disconnected, Price feed=Disconnected

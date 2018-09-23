@@ -1,0 +1,30 @@
+2018-09-20 07:10:23:939|2|4|Session Break (Version 8.0.15.1)
+2018-09-20 07:10:25:173|1|4|Verifying license at primary server...
+2018-09-20 07:10:25:337|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2018-09-20 07:10:26:853|1|4|Global simulation mode enabled
+2018-09-20 07:10:28:851|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2018-09-20 07:10:28:856|1|4|Automated trading disabled
+2018-09-20 07:10:28:857|1|4|Auto connecting 'demo360820'...
+2018-09-20 07:10:28:887|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:10:28:974|1|32|Order entry hot keys disabled
+2018-09-20 07:10:28:975|1|4|Auto close enabled=False
+2018-09-20 07:10:29:951|1|4|Restoring workspace 'Untitled'...
+2018-09-20 07:10:31:148|0|2|demo360820: Unable to connect to the remote server. (Logon failed)
+2018-09-20 07:10:31:148|1|2|demo360820: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-20 07:10:44:242|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:10:45:386|0|2|demo360820: Unable to connect to the remote server. (Logon failed)
+2018-09-20 07:10:45:386|1|2|demo360820: Primary connection=Disconnected, Price feed=Disconnected
+2018-09-20 07:50:32:893|1|4|Verifying license at primary server...
+2018-09-20 07:50:33:314|1|4|Type=Regular State=Verified Start Date=9/19/2018 End Date=12/30/2098
+2018-09-20 07:51:26:675|1|2|demo360820: Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:51:32:705|1|2|Kinetick – End Of Day (Free): Primary connection=Connecting, Price feed=Connecting
+2018-09-20 07:51:33:115|1|2|Kinetick – End Of Day (Free): Primary connection=Connected, Price feed=Connected
+2018-09-20 07:51:33:115|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-20 07:51:35:618|1|2|demo360820: Primary connection=Connected, Price feed=Connected
+2018-09-20 07:51:35:695|1|2|Time to auto close position='12:00:00 AM', Enabled=False
+2018-09-20 07:51:35:695|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-20 07:52:33:974|1|4|Workspace Untitled not saved
+2018-09-20 07:52:34:066|1|2|demo360820: Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-20 07:52:34:075|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnecting, Price feed=Disconnecting
+2018-09-20 07:52:34:086|1|2|Kinetick – End Of Day (Free): Primary connection=Disconnected, Price feed=Disconnected
+2018-09-20 07:52:34:536|1|2|demo360820: Primary connection=Disconnected, Price feed=Disconnected

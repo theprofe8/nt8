@@ -1,0 +1,33 @@
+2018-09-19 00:05:51:712|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803899' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-19 00:17:26:097|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803899'
+2018-09-19 00:20:11:818|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803899' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-19 00:42:24:019|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803899'
+2018-09-19 00:43:24:673|1|4|Enabling NinjaScript strategy 'Sample MA crossover/148803899' : On starting a real-time strategy - StartBehavior=WaitUntilFlat EntryHandling=All entries EntriesPerDirection=1 StopTargetHandling=By strategy position ErrorHandling=Stop strategy, cancel orders, close positions ExitOnSessionClose=True / triggering 30 seconds before close SetOrderQuantityBy=Strategy ConnectionLossHandling=Recalculate DisconnectDelaySeconds=10 CancelEntriesOnStrategyDisable=False CancelExitsOnStrategyDisable=False Calculate=On bar close IsUnmanaged=False MaxRestarts=4 in 5 minutes
+2018-09-19 01:46:59:505|1|32|Chart Trader submitting order without strategy
+2018-09-19 01:46:59:578|1|32|Order='56e7700b8df041058a0af20b799ff95d/Sim101' Name='' New state='Submitted' Instrument='ES 09-18' Action='Buy' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:46:59:693|1|32|Order='56e7700b8df041058a0af20b799ff95d/Sim101' Name='' New state='Accepted' Instrument='ES 09-18' Action='Buy' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:46:59:693|1|32|Order='56e7700b8df041058a0af20b799ff95d/Sim101' Name='' New state='Working' Instrument='ES 09-18' Action='Buy' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:46:59:709|1|32|Order='56e7700b8df041058a0af20b799ff95d/Sim101' Name='' New state='Filled' Instrument='ES 09-18' Action='Buy' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=1 Fill price=2909.25 Error='No error' Native error=''
+2018-09-19 01:46:59:722|1|8|Execution='c6811d6f329a4de8b1a419363be6cb6a' Instrument='ES 09-18' Account='Sim101' Exchange=Default Price=2909.25 Quantity=1 Market position=Long Operation=Operation_Add Order='56e7700b8df041058a0af20b799ff95d' Time='9/19/2018 8:47 AM'
+2018-09-19 01:46:59:748|1|64|Instrument='ES 09-18' Account='Sim101' Average price=2909.25 Quantity=1 Market position=Long Operation=Operation_Add
+2018-09-19 01:50:39:352|1|32|Chart Trader submitting order without strategy
+2018-09-19 01:50:39:360|1|32|Order='c174bb71ecf64e7581f8c52f540d87c2/Sim101' Name='' New state='Submitted' Instrument='ES 09-18' Action='Sell' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:50:39:458|1|32|Order='c174bb71ecf64e7581f8c52f540d87c2/Sim101' Name='' New state='Accepted' Instrument='ES 09-18' Action='Sell' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:50:39:458|1|32|Order='c174bb71ecf64e7581f8c52f540d87c2/Sim101' Name='' New state='Working' Instrument='ES 09-18' Action='Sell' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=0 Fill price=0 Error='No error' Native error=''
+2018-09-19 01:50:39:459|1|32|Order='c174bb71ecf64e7581f8c52f540d87c2/Sim101' Name='' New state='Filled' Instrument='ES 09-18' Action='Sell' Limit price=0 Stop price=0 Quantity=1 Type='Market' Time in force=DAY Oco='' Filled=1 Fill price=2910 Error='No error' Native error=''
+2018-09-19 01:50:39:459|1|8|Execution='c9da070ef2ee42feb15eae8d4387ca18' Instrument='ES 09-18' Account='Sim101' Exchange=Default Price=2910 Quantity=1 Market position=Short Operation=Operation_Add Order='c174bb71ecf64e7581f8c52f540d87c2' Time='9/19/2018 8:50 AM'
+2018-09-19 01:50:39:461|1|64|Instrument='ES 09-18' Account='Sim101' Average price=0 Quantity=0 Market position=Flat Operation=Remove
+2018-09-19 02:35:48:070|1|1048576|NinjaTrader has detected your system is entering a suspended state
+2018-09-19 02:44:36:991|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connected
+2018-09-19 02:44:37:001|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connection lost
+2018-09-19 02:44:37:001|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-19 02:44:37:273|1|2|Demo0918: Primary connection=Connection lost, Price feed=Connection lost
+2018-09-19 02:44:38:161|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-19 02:44:38:791|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-19 02:44:39:761|1|1048576|NinjaTrader has detected your system has recovered from a suspended state
+2018-09-19 02:44:49:707|3|2|Connection lost to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-19 02:44:59:711|1|2|Using HDS (hds-us-nt-002.ninjatrader.com/31655)
+2018-09-19 02:44:59:895|1|2|Connection restored to the NinjaTrader Historical Data Server: hds-us-nt-002.ninjatrader.com
+2018-09-19 02:45:36:555|1|2|Demo0918: Primary connection=Connected, Price feed=Connection lost
+2018-09-19 02:45:37:604|1|2|Demo0918: Primary connection=Connected, Price feed=Connected
+2018-09-19 03:14:00:961|1|4|Disabling NinjaScript strategy 'Sample MA crossover/148803899'
